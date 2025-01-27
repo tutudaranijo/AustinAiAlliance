@@ -11,7 +11,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores.utils import filter_complex_metadata
 from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
-from langchain_ibm import WatsonxLLM, WatsonxEmbeddings
+#from langchain_ibm import WatsonxLLM, WatsonxEmbeddings
 
 
 load_dotenv()
