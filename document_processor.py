@@ -1,95 +1,147 @@
+# document_processor.py
+
 import os
 import io
 from uuid import uuid4
+from typing import List, Optional
+
+# Google Drive Imports
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
+
+# LangChain & Other Imports
 from langchain_unstructured import UnstructuredLoader
 from dotenv import load_dotenv
-from langchain_chroma import Chroma
+
+# LangSmith Import
+from langsmith import Client
+
+# Milvus Import (Community)
+from langchain_community.vectorstores import Milvus
+
+# Embeddings (OpenAI as example)
 from langchain_openai import OpenAIEmbeddings
+
 from langchain_community.vectorstores.utils import filter_complex_metadata
-from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
-#from langchain_ibm import WatsonxLLM, WatsonxEmbeddings
 
+# Import your LLM factory and base classes
+from llm_support import  BaseLLM, LLMFactory
+from langchain.llms.base import LLM
+from pydantic import Field
 
+from typing import Optional, List, Any, Mapping
 load_dotenv()
-# Define the scope and authenticate using the service account credentials
+
+##################################
+# 1. Custom LLM Wrapper (Fixed)
+##################################
+class CustomLLMWrapper(LLM):
+    """A LangChain-compatible wrapper around your custom BaseLLM classes."""
+
+    # Declare custom_llm as a Pydantic field
+    custom_llm: BaseLLM = Field(...)
+
+    class Config:
+        # Allow arbitrary types like your custom LLM
+        arbitrary_types_allowed = True
+
+    @property
+    def _llm_type(self) -> str:
+        return "custom_llm"
+
+    @property
+    def _identifying_params(self) -> Mapping[str, Any]:
+        """Unique parameters identifying this LLM."""
+        return {"model_name": self.custom_llm.model_name}
+
+    def _call(self, prompt: str, stop: Optional[List[str]] = None) -> str:
+        """Run the underlying BaseLLM's generate() method."""
+        return self.custom_llm.generate(prompt)
+
+################################
+# 2. Google Drive Authentication
+################################
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-SERVICE_ACCOUNT_FILE = './service_account.json'
+SERVICE_ACCOUNT_FILE = 'elaborate-howl-415101-c308fb4eab27.json'
 
 credentials = service_account.Credentials.from_service_account_file(
-    SERVICE_ACCOUNT_FILE, scopes=SCOPES)
-
-# Build the Drive API client
+    SERVICE_ACCOUNT_FILE, scopes=SCOPES
+)
 drive_service = build('drive', 'v3', credentials=credentials)
 
-watsonx_apikey = os.getenv('WATSONX_APIKEY')
-watsonx_url = os.getenv('WATSONX_URL')
-project_id = os.getenv('PROJECT_ID')
-
-# Use openAI for testing until WATSONX is provided
+################################
+# 3. Set Up Embedding and LLM
+################################
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
 
-embed_params = {
-    "truncate_input_tokens": 3,
-    "return_options": {"input_text": True},
-}
+# Define which LLM provider / model to use from environment
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai")
+LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME", "gpt-4o-mini")
 
-# # Initialize WatsonxEmbeddings
-# embedding_model = WatsonxEmbeddings(
-#     model_id="ibm/slate-125m-english-rtrvr",
-#     url=watsonx_url,
-#     project_id=project_id,
-#     params=embed_params,
-# )
+# Create an LLM via our factory
+my_llm = LLMFactory.create_llm(LLM_PROVIDER, LLM_MODEL_NAME)
 
-vector_store = Chroma(
-    collection_name="test-docs",
+# Wrap our custom LLM in the LangChain-compatible class
+langchain_compatible_llm = CustomLLMWrapper(custom_llm=my_llm)
+
+################################
+# 4. LangSmith Client
+################################
+client = Client(
+    api_key=os.getenv("LANGSMITH_API_KEY")
+)
+# If you set LANGSMITH_TRACING=true, runs can be automatically tracked
+
+################################
+# 5. Milvus Vector Store Setup
+################################
+MILVUS_HOST = os.getenv('MILVUS_HOST')
+MILVUS_PORT = int(os.getenv('MILVUS_PORT'))
+
+vector_store = Milvus(
     embedding_function=embedding_model,
-    persist_directory="./chroma_storage_db"
+    collection_name="aaicollect", 
+    connection_args={
+        "host": MILVUS_HOST,
+        "port": MILVUS_PORT
+    },
 )
 
-# Initialize retriever
 retriever = vector_store.as_retriever(search_type="similarity", search_kwargs={"k": 1})
 
-# Generation model parameters
-generation_params = {
-    "decoding_method": "sample",
-    "max_new_tokens": 100,
-    "temperature": 0.5,
-    "top_k": 50,
-}
-
-# Initialize WatsonxLLM
-# generative_model = WatsonxLLM(
-#     model_id="ibm/granite-13b-instruct-v2",
-#     url=watsonx_url,
-#     project_id=project_id,
-#     params=generation_params,
-# )
-
-# Use openAI for testing until WATSONX is provided
-generative_model = ChatOpenAI(model="gpt-4o-mini")
-
-# Set up RetrievalQA chain
+###############################
+# 6. RetrievalQA Chain Setup
+###############################
 qa_chain = RetrievalQA.from_chain_type(
-    llm=generative_model,
+    llm=langchain_compatible_llm,
     chain_type="stuff",
     retriever=retriever,
     verbose=True
 )
 
+###############################
+# 7. Helper Functions
+###############################
 def list_files_in_folder(folder_id):
-    """List all files in a specified Google Drive folder."""
-    query = f"'{folder_id}' in parents and trashed = false"
-    results = drive_service.files().list(q=query).execute()
-    items = results.get('files', [])
-    return items
+    query = f"'{folder_id}' in parents"
+    try:
+        results = drive_service.files().list(q=query).execute()
+        items = results.get('files', [])
+        if not items:
+            print("No files found in the folder.")
+        else:
+            for item in items:
+                print(f"Found file: {item['name']} (ID: {item['id']})")
+        return items
+    except Exception as e:
+        print(f"Error fetching files: {e}")
+        return []
+
+test = list_files_in_folder(os.getenv("google_folder_id"))
 
 def download_file(file_id, file_name):
-    """Download a file from Google Drive."""
     request = drive_service.files().get_media(fileId=file_id)
     file_path = os.path.join('downloads', file_name)
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
@@ -98,9 +150,9 @@ def download_file(file_id, file_name):
         done = False
         while not done:
             status, done = downloader.next_chunk()
-            print(f"Download {int(status.progress() * 100)}%.")
+            if status:
+                print(f"Download {int(status.progress() * 100)}%.")
     return file_path
-
 
 def load_docs_unstructured(local_paths):
     loader = UnstructuredLoader(
@@ -109,57 +161,62 @@ def load_docs_unstructured(local_paths):
         api_key=os.getenv("UNSTRUCTURED_API_KEY"),
         partition_via_api=True,
     )
-
     documents = loader.load()
     docs = filter_complex_metadata(documents)
-    # docs = sanitize_metadata(documents)
     uuids = [str(uuid4()) for _ in range(len(docs))]
-    return [docs, uuids]
+    return docs, uuids
 
-#TODO: check which performs better filter_complex_metadata() or sanitize_metadata()
-# def sanitize_metadata(docs):
-#     """Convert list-type metadata values to strings."""
-#     for doc in docs:
-#         for key, value in doc.metadata.items():
-#             if isinstance(value, list):
-#                 # Convert list to a comma-separated string
-#                 doc.metadata[key] = ', '.join(map(str, value))
-#     return docs
-
-#TODO: issue when batch_size is > 99
 def create_embeddings_and_store(docs, uuids):
-    """Generate embeddings and store them in Chroma DB."""
+    batch_size = 99
+    print(f"Number of docs: {len(docs)}, batch size: {batch_size}")
 
-    batch_size = 99  # Adjust this value based on your system's constraints
-    print('length of docs', len(docs), batch_size)
     try:
         for i in range(0, len(docs), batch_size):
-            print('current batch is', i)
-            batch = docs[i:i+batch_size]
-            print(batch)
-            vector_store.add_documents(documents=batch, ids=uuids[i:i+batch_size])
-            print('stored current batch')
-        print("Embeddings stored successfully in Chroma DB.")
+            batch = docs[i : i + batch_size]
+            batch_ids = uuids[i : i + batch_size]
+            print(f"Storing batch {i} to {i+len(batch)}")
+
+            vector_store.add_documents(batch, ids=batch_ids)
+            print("Stored current batch in Milvus")
+
+        print("Embeddings stored successfully in Milvus.")
     except Exception as e:
         print(f"An error occurred: {e}")
 
-    print("Embeddings stored successfully in Chroma DB.")
-
+###############################
+# 8. Main Script Execution
+###############################
 if __name__ == '__main__':
-    # Replace 'your_folder_id' with the actual folder ID from Google Drive
-    folder_id = ''
+    folder_id = os.getenv("google_folder_id", "")
     local_paths = []
     files = list_files_in_folder(folder_id)
+
+    # 1. Download all files from the folder
     for file in files:
         file_id = file['id']
         file_name = file['name']
-        mime_type = file['mimeType']
-        print(f"Processing file: {file_name} ({mime_type})")
+        print(f"Processing file: {file_name} (ID: {file_id})")
 
-        # Download the file
         local_path = download_file(file_id, file_name)
-        print(local_path)
         local_paths.append(local_path)
+        print(f"Downloaded to: {local_path}")
+
+    # 2. Load and chunk documents
     docs, uuids = load_docs_unstructured(local_paths)
+    print(f"Loaded {len(docs)} docs from UnstructuredLoader.")
+
+    # 3. Create embeddings and store them in Milvus
     create_embeddings_and_store(docs, uuids)
 
+    ## 4. Query your chain
+    #question = "What is this document about?"
+    #response = qa_chain.invoke(question)
+    #print("Response:", response)#
+
+    ## 5. (Optional) Log the run with LangSmith Client
+    #client.create_run(
+    #    run_type="qa",  # Added 'run_type' argument
+    #    name="my_document_query_run",
+    #    inputs={"question": question},
+    #    outputs={"answer": response}
+    #)
