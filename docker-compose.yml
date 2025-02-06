@@ -1,0 +1,95 @@
+version: "3.8"
+
+services:
+  etcd:
+    image: gcr.io/etcd-development/etcd:v3.5.0
+    container_name: etcd
+    restart: always
+    ports:
+      - "2379:2379"
+      - "2380:2380"
+    environment:
+      - ALLOW_NONE_AUTHENTICATION=yes
+    command: >
+      etcd
+      --data-dir=/etcd-data
+      --name etcd
+      --listen-peer-urls http://0.0.0.0:2380
+      --listen-client-urls http://0.0.0.0:2379
+      --advertise-client-urls http://etcd:2379
+      --initial-advertise-peer-urls http://etcd:2380
+      --initial-cluster etcd=http://etcd:2380
+      --initial-cluster-token etcd-cluster-1
+      --initial-cluster-state new
+    healthcheck:
+      test: ["CMD", "sh", "-c", "ETCDCTL_API=3 etcdctl endpoint health"]
+      interval: 10s
+      retries: 5
+      start_period: 30s
+
+  minio:
+    image: minio/minio:latest
+    container_name: minio
+    restart: always
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/ready"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  milvus:
+    image: milvusdb/milvus:v2.3.4
+    container_name: milvus
+    restart: always
+    command: ["milvus", "run", "standalone"]
+    depends_on:
+      etcd:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+    ports:
+      - "19530:19530"
+    environment:
+      - ETCD_ENDPOINTS=http://etcd:2379
+      - STORAGE_CONFIG__TYPE=remote
+      - STORAGE_CONFIG__REMOTE__MINIO__BUCKET=a-bucket
+      - STORAGE_CONFIG__REMOTE__MINIO__ACCESS_KEY=minioadmin
+      - STORAGE_CONFIG__REMOTE__MINIO__SECRET_KEY=minioadmin
+      - STORAGE_CONFIG__REMOTE__MINIO__ENDPOINT=minio:9000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:19121/ready"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  fastapi:
+    build: .
+    container_name: fastapi_service
+    depends_on:
+      milvus:
+        condition: service_healthy
+    environment:
+      - ETCD_ENDPOINTS=http://etcd:2379
+      - MILVUS_URI=http://milvus:19530
+    ports:
+      - "8000:8000"
+
+  streamlit:
+    build: .
+    container_name: streamlit_service
+    depends_on:
+      fastapi:
+        condition: service_healthy
+      milvus:
+        condition: service_healthy
+    environment:
+      - MILVUS_URI=http://milvus:19530
+    ports:
+      - "8501:8501"
