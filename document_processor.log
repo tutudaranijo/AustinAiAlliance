@@ -1,0 +1,1277 @@
+2025-01-29 16:06:31,444 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-01-29 16:06:32,493 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-01-29 16:06:32,493 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-01-29 16:06:32,650 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:06:32,651 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,651 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,651 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,651 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,651 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,652 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:06:32,652 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:06:32,652 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:32,828 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-01-29 16:06:32,829 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-01-29 16:06:32,829 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-01-29 16:06:32,829 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-01-29 16:06:33,002 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:33,002 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:06:33,219 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:33,378 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:33,379 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:33,705 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:06:33,705 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:33,706 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:06:33,706 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:33,706 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:33,706 [INFO] Total files found: 19
+2025-01-29 16:06:33,706 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:06:34,973 [INFO] Download 100%.
+2025-01-29 16:06:34,974 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-01-29 16:06:34,975 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:36,137 [INFO] Download 100%.
+2025-01-29 16:06:36,140 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-01-29 16:06:36,140 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:37,279 [INFO] Download 100%.
+2025-01-29 16:06:37,281 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-01-29 16:06:37,281 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:38,227 [INFO] Download 100%.
+2025-01-29 16:06:38,227 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-01-29 16:06:38,228 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:38,945 [INFO] Download 100%.
+2025-01-29 16:06:38,946 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-01-29 16:06:38,946 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:40,006 [INFO] Download 100%.
+2025-01-29 16:06:40,008 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-01-29 16:06:40,008 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:06:40,183 [WARNING] Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-01-29 16:06:40,184 [ERROR] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:06:40,184 [ERROR] Failed to download Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:06:40,184 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:06:41,114 [INFO] Download 100%.
+2025-01-29 16:06:41,114 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-01-29 16:06:41,114 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:42,005 [INFO] Download 100%.
+2025-01-29 16:06:42,006 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-01-29 16:06:42,006 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:43,049 [INFO] Download 100%.
+2025-01-29 16:06:43,050 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-01-29 16:06:43,050 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:06:47,462 [INFO] Download 100%.
+2025-01-29 16:06:47,465 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-01-29 16:06:47,465 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:48,291 [INFO] Download 100%.
+2025-01-29 16:06:48,291 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-01-29 16:06:48,291 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:48,803 [INFO] Download 100%.
+2025-01-29 16:06:48,805 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-01-29 16:06:48,805 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:49,810 [INFO] Download 100%.
+2025-01-29 16:06:49,810 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-01-29 16:06:49,810 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:06:50,628 [INFO] Download 100%.
+2025-01-29 16:06:50,628 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-01-29 16:06:50,628 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:51,403 [INFO] Download 100%.
+2025-01-29 16:06:51,404 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-01-29 16:06:51,405 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:06:51,887 [INFO] Download 100%.
+2025-01-29 16:06:51,888 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-01-29 16:06:51,888 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:06:53,304 [INFO] Download 100%.
+2025-01-29 16:06:53,305 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-01-29 16:06:53,305 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:06:55,184 [INFO] Download 100%.
+2025-01-29 16:06:55,185 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-01-29 16:06:55,547 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:06:59,357 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:04,497 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:05,621 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:06,518 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:06,910 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:07,215 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:07,676 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:15,612 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:16,478 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:16,562 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:07:21,452 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:22,274 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:25,719 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:48,406 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:07:55,002 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:07:58,509 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:01,966 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:02,661 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:02,742 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:08:10,353 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:12,802 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:15,769 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:16,260 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:17,510 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:20,638 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:23,119 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:23,375 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:08:34,056 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:47,115 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:47,793 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:49,268 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:49,578 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:08:49,633 [INFO] Loaded 432 docs from UnstructuredLoader.
+2025-01-29 16:08:49,633 [INFO] Number of docs: 432, batch size: 99
+2025-01-29 16:08:49,633 [INFO] Storing batch 0 to 99
+2025-01-29 16:08:49,633 [ERROR] An error occurred: 'Document' object has no attribute 'embedding'
+2025-01-29 16:17:46,244 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-01-29 16:17:46,246 [INFO] Successfully authenticated with Google Drive.
+2025-01-29 16:17:46,292 [INFO] Initialized OpenAI Embeddings model.
+2025-01-29 16:17:46,330 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-01-29 16:17:46,331 [INFO] Initialized LangSmith Client.
+2025-01-29 16:17:46,781 [INFO] Connected to Milvus vector store.
+2025-01-29 16:17:46,781 [INFO] Initialized RetrievalQA chain.
+2025-01-29 16:17:47,200 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-01-29 16:17:47,200 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-01-29 16:17:47,427 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:17:47,427 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,427 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,427 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,427 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,428 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,428 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:17:47,428 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:17:47,428 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:47,588 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-01-29 16:17:47,589 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-01-29 16:17:47,589 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-01-29 16:17:47,589 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-01-29 16:17:47,745 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:17:47,746 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:17:47,930 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:17:48,108 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:48,108 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:17:48,296 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:17:48,297 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:48,297 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:17:48,297 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:48,297 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:17:48,297 [INFO] Total files found: 19
+2025-01-29 16:17:48,297 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:17:50,128 [INFO] Download 100%.
+2025-01-29 16:17:50,129 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-01-29 16:17:50,129 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:51,162 [INFO] Download 100%.
+2025-01-29 16:17:51,163 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-01-29 16:17:51,163 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:52,230 [INFO] Download 100%.
+2025-01-29 16:17:52,230 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-01-29 16:17:52,230 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:53,160 [INFO] Download 100%.
+2025-01-29 16:17:53,161 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-01-29 16:17:53,161 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:54,142 [INFO] Download 100%.
+2025-01-29 16:17:54,142 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-01-29 16:17:54,143 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:55,799 [INFO] Download 100%.
+2025-01-29 16:17:55,800 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-01-29 16:17:55,801 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:17:55,999 [WARNING] Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-01-29 16:17:55,999 [ERROR] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:17:55,999 [ERROR] Failed to download Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:17:56,000 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:17:56,809 [INFO] Download 100%.
+2025-01-29 16:17:56,809 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-01-29 16:17:56,809 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:17:57,666 [INFO] Download 100%.
+2025-01-29 16:17:57,666 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-01-29 16:17:57,666 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:17:58,592 [INFO] Download 100%.
+2025-01-29 16:17:58,594 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-01-29 16:17:58,594 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:18:00,525 [INFO] Download 100%.
+2025-01-29 16:18:00,528 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-01-29 16:18:00,529 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:18:01,555 [INFO] Download 100%.
+2025-01-29 16:18:01,555 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-01-29 16:18:01,555 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:18:02,596 [INFO] Download 100%.
+2025-01-29 16:18:02,597 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-01-29 16:18:02,597 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:18:03,845 [INFO] Download 100%.
+2025-01-29 16:18:03,846 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-01-29 16:18:03,846 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:18:04,963 [INFO] Download 100%.
+2025-01-29 16:18:04,964 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-01-29 16:18:04,964 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:18:05,970 [INFO] Download 100%.
+2025-01-29 16:18:05,972 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-01-29 16:18:05,972 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:18:06,442 [INFO] Download 100%.
+2025-01-29 16:18:06,445 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-01-29 16:18:06,445 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:18:07,607 [INFO] Download 100%.
+2025-01-29 16:18:07,608 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-01-29 16:18:07,608 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:18:09,762 [INFO] Download 100%.
+2025-01-29 16:18:09,763 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-01-29 16:18:10,007 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:18:13,948 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:19,299 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:20,169 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:20,511 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:20,853 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:21,063 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:21,803 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:29,214 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:29,448 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:29,561 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:18:34,842 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:35,553 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:18:39,486 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:02,999 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:08,203 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:19:12,213 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:14,876 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:15,592 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:15,674 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:19:23,176 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:25,777 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:27,935 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:28,629 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:29,518 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:32,903 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:35,705 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:19:35,936 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:19:46,808 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:20:00,102 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:20:00,552 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:20:01,672 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:20:02,058 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:20:02,106 [INFO] Loaded 432 documents from UnstructuredLoader.
+2025-01-29 16:20:02,108 [INFO] Filtered to 432 documents after metadata filtering.
+2025-01-29 16:20:02,110 [INFO] Loaded 432 docs from UnstructuredLoader.
+2025-01-29 16:20:02,110 [INFO] Number of docs: 432, batch size: 99
+2025-01-29 16:20:02,110 [INFO] Storing batch 0 to 99
+2025-01-29 16:20:03,683 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:20:04,179 [INFO] Stored current batch in Milvus
+2025-01-29 16:20:04,179 [INFO] Storing batch 99 to 198
+2025-01-29 16:20:05,869 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:20:07,026 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:20:07,031 [ERROR] Failed to insert batch starting at entity: 0/99
+2025-01-29 16:20:07,031 [ERROR] An error occurred during embeddings creation and storage: <ParamError: (code=1, message=invalid input of field (orig_elements), length of string exceeds max length. length: 3374180, max length: 65535)>
+2025-01-29 16:22:03,072 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-01-29 16:22:03,073 [INFO] Successfully authenticated with Google Drive.
+2025-01-29 16:22:03,120 [INFO] Initialized OpenAI Embeddings model.
+2025-01-29 16:22:03,161 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-01-29 16:22:03,162 [INFO] Initialized LangSmith Client.
+2025-01-29 16:22:03,650 [INFO] Connected to Milvus vector store.
+2025-01-29 16:22:03,650 [INFO] Initialized RetrievalQA chain.
+2025-01-29 16:22:04,099 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-01-29 16:22:04,100 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-01-29 16:22:04,267 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:22:04,268 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,268 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,268 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,268 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,268 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,269 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:22:04,269 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:22:04,269 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,436 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-01-29 16:22:04,437 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-01-29 16:22:04,437 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-01-29 16:22:04,437 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-01-29 16:22:04,589 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:04,590 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:22:04,729 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:04,890 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:04,890 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:05,034 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:22:05,034 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:05,035 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:22:05,035 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:05,035 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:05,035 [INFO] Total files found: 19
+2025-01-29 16:22:05,035 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:22:06,893 [INFO] Download 100%.
+2025-01-29 16:22:06,894 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-01-29 16:22:06,894 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:07,311 [INFO] Download 100%.
+2025-01-29 16:22:07,312 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-01-29 16:22:07,312 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:08,532 [INFO] Download 100%.
+2025-01-29 16:22:08,532 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-01-29 16:22:08,532 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:09,459 [INFO] Download 100%.
+2025-01-29 16:22:09,460 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-01-29 16:22:09,460 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:09,980 [INFO] Download 100%.
+2025-01-29 16:22:09,982 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-01-29 16:22:09,982 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:10,694 [INFO] Download 100%.
+2025-01-29 16:22:10,695 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-01-29 16:22:10,696 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:22:10,925 [WARNING] Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-01-29 16:22:10,925 [ERROR] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:22:10,925 [ERROR] Failed to download Copy of 00-Idea/Problem intake form: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-01-29 16:22:10,926 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:22:11,360 [INFO] Download 100%.
+2025-01-29 16:22:11,360 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-01-29 16:22:11,360 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:12,131 [INFO] Download 100%.
+2025-01-29 16:22:12,132 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-01-29 16:22:12,132 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:12,755 [INFO] Download 100%.
+2025-01-29 16:22:12,756 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-01-29 16:22:12,756 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:22:16,842 [INFO] Download 100%.
+2025-01-29 16:22:16,845 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-01-29 16:22:16,845 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:17,368 [INFO] Download 100%.
+2025-01-29 16:22:17,369 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-01-29 16:22:17,369 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:18,271 [INFO] Download 100%.
+2025-01-29 16:22:18,272 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-01-29 16:22:18,272 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:18,967 [INFO] Download 100%.
+2025-01-29 16:22:18,968 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-01-29 16:22:18,968 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:22:19,708 [INFO] Download 100%.
+2025-01-29 16:22:19,709 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-01-29 16:22:19,709 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:20,147 [INFO] Download 100%.
+2025-01-29 16:22:20,148 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-01-29 16:22:20,148 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:22:20,629 [INFO] Download 100%.
+2025-01-29 16:22:20,630 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-01-29 16:22:20,631 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:22:21,504 [INFO] Download 100%.
+2025-01-29 16:22:21,506 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-01-29 16:22:21,506 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:22:22,783 [INFO] Download 100%.
+2025-01-29 16:22:22,787 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-01-29 16:22:23,109 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:22:27,060 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:32,099 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:33,218 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:33,633 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:34,160 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:34,791 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:35,208 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:43,224 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:44,100 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:44,192 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:22:49,187 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:50,025 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:22:53,326 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:17,100 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:22,483 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:23:26,040 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:29,436 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:30,285 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:30,367 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:23:37,953 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:39,743 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:43,108 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:43,556 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:44,325 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:47,141 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:49,556 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:23:49,986 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:24:01,017 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:24:14,105 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:24:14,239 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:24:15,883 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:24:16,221 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:24:16,270 [INFO] Loaded 432 documents from UnstructuredLoader.
+2025-01-29 16:24:16,272 [INFO] Filtered to 432 documents after metadata filtering.
+2025-01-29 16:24:16,274 [INFO] Loaded 432 docs from UnstructuredLoader.
+2025-01-29 16:24:16,275 [INFO] Number of docs: 432, batch size: 45
+2025-01-29 16:24:16,275 [INFO] Storing batch 0 to 45
+2025-01-29 16:24:20,459 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:24:20,725 [INFO] Stored current batch in Milvus
+2025-01-29 16:24:20,726 [INFO] Storing batch 45 to 90
+2025-01-29 16:24:21,893 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:24:22,091 [INFO] Stored current batch in Milvus
+2025-01-29 16:24:22,092 [INFO] Storing batch 90 to 135
+2025-01-29 16:24:23,600 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:24:23,691 [ERROR] Failed to insert batch starting at entity: 0/45
+2025-01-29 16:24:23,691 [ERROR] An error occurred during embeddings creation and storage: <ParamError: (code=1, message=invalid input of field (orig_elements), length of string exceeds max length. length: 3374176, max length: 65535)>
+2025-01-29 16:31:09,735 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-01-29 16:31:09,737 [INFO] Successfully authenticated with Google Drive.
+2025-01-29 16:31:09,787 [INFO] Initialized OpenAI Embeddings model.
+2025-01-29 16:31:09,827 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-01-29 16:31:09,828 [INFO] Initialized LangSmith Client.
+2025-01-29 16:31:10,315 [INFO] Connected to Milvus vector store.
+2025-01-29 16:31:10,315 [INFO] Initialized RetrievalQA chain.
+2025-01-29 16:31:10,823 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-01-29 16:31:10,823 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-01-29 16:31:11,224 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:31:11,224 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,224 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,224 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,224 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,225 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,225 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:31:11,225 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:31:11,225 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,417 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-01-29 16:31:11,417 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-01-29 16:31:11,417 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-01-29 16:31:11,417 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-01-29 16:31:11,579 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:11,579 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:31:11,735 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:11,907 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:11,907 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:12,084 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:31:12,084 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:12,084 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:31:12,084 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:12,084 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:12,084 [INFO] Total files found: 19
+2025-01-29 16:31:12,084 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-01-29 16:31:13,088 [INFO] Download Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf: 100%.
+2025-01-29 16:31:13,088 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-01-29 16:31:13,088 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:14,040 [INFO] Download Copy of Austin-AI-Alliance Project - Communications Plan.docx: 100%.
+2025-01-29 16:31:14,041 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-01-29 16:31:14,041 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:14,505 [INFO] Download Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx: 100%.
+2025-01-29 16:31:14,506 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-01-29 16:31:14,506 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:15,277 [INFO] Download Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx: 100%.
+2025-01-29 16:31:15,278 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-01-29 16:31:15,278 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:16,238 [INFO] Download Copy of Stage 1 Austin AI Alliance Project Template-V03.docx: 100%.
+2025-01-29 16:31:16,238 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-01-29 16:31:16,238 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:17,463 [INFO] Download Copy of Austin AI Alliance Project Process.docx: 100%.
+2025-01-29 16:31:17,464 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-01-29 16:31:17,464 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-01-29 16:31:18,729 [WARNING] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form.pdf: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4/export?mimeType=application%2Fpdf&alt=media returned "The requested conversion is not supported.". Details: "[{'message': 'The requested conversion is not supported.', 'domain': 'global', 'reason': 'badRequest', 'location': 'convertTo', 'locationType': 'parameter'}]">
+2025-01-29 16:31:18,729 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-01-29 16:31:19,574 [INFO] Download Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf: 100%.
+2025-01-29 16:31:19,577 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-01-29 16:31:19,577 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:20,279 [INFO] Download Copy of Project-Objectives.docx: 100%.
+2025-01-29 16:31:20,279 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-01-29 16:31:20,279 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:21,708 [INFO] Download Copy of Panel Prep - Open Source AI Night 2024.pdf: 100%.
+2025-01-29 16:31:21,708 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-01-29 16:31:21,708 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-01-29 16:31:23,439 [INFO] Download Copy of open-source AI night.pptx: 100%.
+2025-01-29 16:31:23,442 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-01-29 16:31:23,442 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:24,283 [INFO] Download Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf: 100%.
+2025-01-29 16:31:24,284 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-01-29 16:31:24,284 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:24,873 [INFO] Download Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx: 100%.
+2025-01-29 16:31:24,874 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-01-29 16:31:24,874 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:26,010 [INFO] Download Copy of Austin AI Alliance State of AI 2025.pdf: 100%.
+2025-01-29 16:31:26,011 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-01-29 16:31:26,011 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-01-29 16:31:27,022 [INFO] Download Copy of Copy of AAIA Communications Plan.xlsx: 100%.
+2025-01-29 16:31:27,023 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-01-29 16:31:27,023 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:28,357 [INFO] Download Copy of AAIFF Bylaws DRAFT.docx: 100%.
+2025-01-29 16:31:28,358 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-01-29 16:31:28,358 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-01-29 16:31:28,970 [INFO] Download Copy of Austin AIFF Spec Schedule PDF.pdf: 100%.
+2025-01-29 16:31:28,971 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-01-29 16:31:28,971 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-01-29 16:31:30,507 [INFO] Download Copy of AAIFF Sponsorship Packet.docx: 100%.
+2025-01-29 16:31:30,510 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-01-29 16:31:30,510 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-01-29 16:31:32,719 [INFO] Download Copy of Austin AI Film Festival Business Plan.pdf: 100%.
+2025-01-29 16:31:32,719 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-01-29 16:31:32,963 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:31:36,749 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:41,988 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:42,787 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:43,145 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:43,344 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:43,937 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:44,269 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:52,247 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:52,567 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:52,679 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:31:57,544 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:31:58,543 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:02,148 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:24,994 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:31,170 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:32:35,016 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:38,806 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:39,521 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:39,599 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:32:47,668 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:49,408 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:52,456 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:52,969 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:53,767 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:56,929 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:59,385 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:32:59,664 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-01-29 16:33:11,253 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:33:24,581 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:33:24,622 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:33:24,624 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:33:25,909 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-01-29 16:33:26,019 [INFO] Loaded 432 documents from UnstructuredLoader.
+2025-01-29 16:33:26,022 [INFO] Filtered to 432 documents after metadata filtering.
+2025-01-29 16:33:26,025 [INFO] Loaded 432 docs from UnstructuredLoader.
+2025-01-29 16:33:26,025 [INFO] Number of docs: 432, batch size: 99
+2025-01-29 16:33:26,025 [INFO] Storing batch 0 to 99
+2025-01-29 16:33:27,678 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:28,160 [INFO] Stored current batch in Milvus
+2025-01-29 16:33:28,160 [INFO] Storing batch 99 to 198
+2025-01-29 16:33:28,160 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,160 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,161 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,162 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,162 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,163 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:28,163 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:29,646 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:31,131 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:31,235 [INFO] Stored current batch in Milvus
+2025-01-29 16:33:31,235 [INFO] Storing batch 198 to 297
+2025-01-29 16:33:31,235 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-01-29 16:33:32,482 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:32,901 [INFO] Stored current batch in Milvus
+2025-01-29 16:33:32,901 [INFO] Storing batch 297 to 396
+2025-01-29 16:33:33,998 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:34,308 [INFO] Stored current batch in Milvus
+2025-01-29 16:33:34,309 [INFO] Storing batch 396 to 432
+2025-01-29 16:33:35,435 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:33:35,641 [INFO] Stored current batch in Milvus
+2025-01-29 16:33:35,641 [INFO] Embeddings stored successfully in Milvus.
+2025-01-29 16:36:54,667 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-01-29 16:36:54,670 [INFO] Successfully authenticated with Google Drive.
+2025-01-29 16:36:54,717 [INFO] Initialized OpenAI Embeddings model.
+2025-01-29 16:36:54,755 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-01-29 16:36:54,756 [INFO] Initialized LangSmith Client.
+2025-01-29 16:36:55,202 [INFO] Connected to Milvus vector store.
+2025-01-29 16:36:55,203 [INFO] Initialized RetrievalQA chain.
+2025-01-29 16:38:14,556 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:38:16,193 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:38:27,443 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:38:29,198 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:38:43,156 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:38:44,779 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:38:59,146 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:39:00,066 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:39:33,938 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:39:35,075 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:41:12,441 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:41:17,172 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:41:34,636 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:41:36,001 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:42:12,743 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:42:14,266 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:43:26,151 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:43:30,858 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:48:45,952 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:48:47,253 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:49:09,463 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:49:10,438 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:49:34,063 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:49:37,990 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-29 16:51:55,189 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-01-29 16:51:56,528 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-03 18:22:02,247 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:22:02,250 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:22:02,299 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:22:02,299 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:22:57,018 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:22:57,019 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:22:57,059 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:22:57,060 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:29:33,723 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:29:33,724 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:29:33,765 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:30:21,512 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:30:21,513 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:30:21,577 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:30:21,577 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:31:08,725 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:31:08,726 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:31:08,767 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:31:08,767 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:35:32,968 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:35:32,970 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:35:33,019 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:35:33,019 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:35:50,557 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:35:50,558 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:35:50,605 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:35:50,605 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai"        # or "llama", "watsonx", "deepsense
+2025-02-03 18:36:01,354 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:36:01,355 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:36:01,401 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:36:01,401 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 18:36:59,780 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:36:59,781 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:36:59,828 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:37:10,125 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:37:10,126 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:37:10,167 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:37:10,167 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 18:37:27,975 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:37:27,976 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:37:28,018 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:37:28,018 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai" # or "llama", "watsonx", "deepsense
+2025-02-03 18:38:03,328 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:38:03,329 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:38:03,370 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:38:03,370 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai" # or "llama", "watsonx", "deepsense
+2025-02-03 18:42:42,392 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:42:42,394 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:42:42,441 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:42:42,441 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai" # or "llama", "watsonx", "deepsense
+2025-02-03 18:42:55,966 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:42:55,967 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:42:56,012 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:43:04,537 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:43:04,537 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:43:04,579 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:43:04,579 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 18:44:22,280 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 18:44:22,281 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 18:44:22,323 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 18:44:22,323 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 23:17:14,903 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:17:14,905 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:17:14,952 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:17:14,952 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 23:19:57,344 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:19:57,345 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:19:57,391 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:19:57,391 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 23:21:03,634 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:21:03,636 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:21:03,682 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:21:03,682 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 23:22:28,166 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:22:28,168 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:22:28,220 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:22:28,221 [ERROR] Failed to initialize LLM: Unsupported LLM provider: openai # or "llama", "watsonx", "deepsense"
+2025-02-03 23:22:34,197 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:22:34,198 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:22:34,238 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:22:34,278 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:22:34,279 [INFO] Initialized LangSmith Client.
+2025-02-03 23:22:46,703 [ERROR] Failed to create new connection using: c6346ac3570e4661b90d7f776d32ccde
+2025-02-03 23:22:46,704 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-03 23:23:15,198 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:23:15,199 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:23:15,239 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:23:15,274 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:23:43,076 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:23:43,076 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:23:43,118 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:23:43,153 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:24:06,010 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:24:06,011 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:24:06,052 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:24:06,087 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:24:20,283 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:24:20,283 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:24:20,324 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:24:20,360 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:24:20,361 [INFO] Initialized LangSmith Client.
+2025-02-03 23:24:32,730 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-03 23:24:32,730 [INFO] Successfully authenticated with Google Drive.
+2025-02-03 23:24:32,772 [INFO] Initialized OpenAI Embeddings model.
+2025-02-03 23:24:32,807 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini # or your actual model name'.
+2025-02-03 23:24:32,808 [INFO] Initialized LangSmith Client.
+2025-02-03 23:24:43,125 [ERROR] Failed to create new connection using: d1ea522f024f4a5dbb264f26a2fed106
+2025-02-03 23:24:43,127 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 14:48:18,080 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 14:48:18,082 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 14:48:18,129 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 14:48:18,169 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 14:48:18,170 [INFO] Initialized LangSmith Client.
+2025-02-04 14:48:18,928 [INFO] Connected to Milvus vector store.
+2025-02-04 14:49:55,136 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 14:49:55,138 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 14:49:55,185 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 14:49:55,221 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 14:49:55,222 [INFO] Initialized LangSmith Client.
+2025-02-04 14:49:55,665 [INFO] Connected to Milvus vector store.
+2025-02-04 14:50:02,445 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 14:50:02,446 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 14:50:02,491 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 14:50:02,527 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 14:50:02,528 [INFO] Initialized LangSmith Client.
+2025-02-04 14:50:02,773 [INFO] Connected to Milvus vector store.
+2025-02-04 14:50:06,630 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 14:50:06,631 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 14:50:06,671 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 14:50:06,706 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 14:50:06,707 [INFO] Initialized LangSmith Client.
+2025-02-04 14:50:06,956 [INFO] Connected to Milvus vector store.
+2025-02-04 14:50:06,957 [INFO] Initialized RetrievalQA chain.
+2025-02-04 14:50:07,409 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-02-04 14:50:07,409 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-04 14:50:07,617 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:07,781 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-02-04 14:50:07,781 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-02-04 14:50:07,781 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-02-04 14:50:07,781 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-02-04 14:50:07,973 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:07,974 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-04 14:50:08,125 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:08,287 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:08,287 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:08,454 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-04 14:50:08,455 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:08,455 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-04 14:50:08,455 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:08,455 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:08,455 [INFO] Total files found: 19
+2025-02-04 14:50:08,456 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-04 14:50:09,642 [INFO] Download Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf: 100%.
+2025-02-04 14:50:09,643 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-02-04 14:50:09,643 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:11,344 [INFO] Download Copy of Austin-AI-Alliance Project - Communications Plan.docx: 100%.
+2025-02-04 14:50:11,345 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-02-04 14:50:11,345 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:12,180 [INFO] Download Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx: 100%.
+2025-02-04 14:50:12,181 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-02-04 14:50:12,181 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:13,229 [INFO] Download Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx: 100%.
+2025-02-04 14:50:13,229 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-02-04 14:50:13,229 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:14,945 [INFO] Download Copy of Stage 1 Austin AI Alliance Project Template-V03.docx: 100%.
+2025-02-04 14:50:14,946 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-02-04 14:50:14,946 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:16,281 [INFO] Download Copy of Austin AI Alliance Project Process.docx: 100%.
+2025-02-04 14:50:16,282 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-02-04 14:50:16,283 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-04 14:50:17,496 [WARNING] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form.pdf: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4/export?mimeType=application%2Fpdf&alt=media returned "The requested conversion is not supported.". Details: "[{'message': 'The requested conversion is not supported.', 'domain': 'global', 'reason': 'badRequest', 'location': 'convertTo', 'locationType': 'parameter'}]">
+2025-02-04 14:50:17,496 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-04 14:50:18,737 [INFO] Download Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf: 100%.
+2025-02-04 14:50:18,737 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-02-04 14:50:18,737 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:20,247 [INFO] Download Copy of Project-Objectives.docx: 100%.
+2025-02-04 14:50:20,248 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-02-04 14:50:20,248 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:21,271 [INFO] Download Copy of Panel Prep - Open Source AI Night 2024.pdf: 100%.
+2025-02-04 14:50:21,271 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-02-04 14:50:21,271 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-04 14:50:26,315 [INFO] Download Copy of open-source AI night.pptx: 100%.
+2025-02-04 14:50:26,317 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-02-04 14:50:26,317 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:27,408 [INFO] Download Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf: 100%.
+2025-02-04 14:50:27,409 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-02-04 14:50:27,409 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:28,755 [INFO] Download Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx: 100%.
+2025-02-04 14:50:28,755 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-02-04 14:50:28,756 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:30,288 [INFO] Download Copy of Austin AI Alliance State of AI 2025.pdf: 100%.
+2025-02-04 14:50:30,289 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-02-04 14:50:30,289 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-04 14:50:31,201 [INFO] Download Copy of Copy of AAIA Communications Plan.xlsx: 100%.
+2025-02-04 14:50:31,202 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-02-04 14:50:31,203 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:32,527 [INFO] Download Copy of AAIFF Bylaws DRAFT.docx: 100%.
+2025-02-04 14:50:32,527 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-02-04 14:50:32,527 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-04 14:50:33,150 [INFO] Download Copy of Austin AIFF Spec Schedule PDF.pdf: 100%.
+2025-02-04 14:50:33,151 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-02-04 14:50:33,151 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 14:50:34,381 [INFO] Download Copy of AAIFF Sponsorship Packet.docx: 100%.
+2025-02-04 14:50:34,382 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-02-04 14:50:34,382 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-04 14:50:36,556 [INFO] Download Copy of Austin AI Film Festival Business Plan.pdf: 100%.
+2025-02-04 14:50:36,557 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-02-04 14:50:37,234 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 14:50:40,315 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:43,337 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:44,039 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:44,513 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:45,235 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:45,403 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:45,656 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:50,145 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:50,427 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:50,533 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 14:50:54,040 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:55,164 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:50:56,247 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:13,964 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:17,256 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 14:51:20,046 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:22,913 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:23,726 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:23,826 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 14:51:29,381 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:31,642 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:32,587 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:33,152 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:34,445 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:36,778 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:39,005 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:39,383 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 14:51:47,123 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:54,662 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:54,788 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:55,451 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:55,549 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 14:51:55,617 [INFO] Loaded 420 documents from UnstructuredLoader.
+2025-02-04 14:51:55,619 [INFO] Filtered to 420 documents after metadata filtering.
+2025-02-04 14:51:55,620 [INFO] Loaded 420 docs from UnstructuredLoader.
+2025-02-04 14:51:55,620 [INFO] Number of docs: 420, batch size: 99
+2025-02-04 14:51:55,621 [INFO] Storing batch 0 to 99
+2025-02-04 14:51:57,985 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:51:59,047 [INFO] Stored current batch in Milvus
+2025-02-04 14:51:59,047 [INFO] Storing batch 99 to 198
+2025-02-04 14:51:59,047 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:51:59,048 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:51:59,048 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:51:59,049 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:51:59,049 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:52:00,133 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:52:01,624 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:52:01,794 [INFO] Stored current batch in Milvus
+2025-02-04 14:52:01,794 [INFO] Storing batch 198 to 297
+2025-02-04 14:52:01,794 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 14:52:03,274 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:52:03,690 [INFO] Stored current batch in Milvus
+2025-02-04 14:52:03,690 [INFO] Storing batch 297 to 396
+2025-02-04 14:52:04,914 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:52:05,279 [INFO] Stored current batch in Milvus
+2025-02-04 14:52:05,279 [INFO] Storing batch 396 to 420
+2025-02-04 14:52:06,229 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 14:52:06,380 [INFO] Stored current batch in Milvus
+2025-02-04 14:52:06,380 [INFO] Embeddings stored successfully in Milvus.
+2025-02-04 20:27:51,163 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 20:27:51,165 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 20:27:51,216 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 20:27:51,256 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 20:27:51,257 [INFO] Initialized LangSmith Client.
+2025-02-04 20:28:01,955 [ERROR] Failed to create new connection using: 31399430bf864681928a3e9662e035db
+2025-02-04 20:28:01,956 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 20:28:12,713 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 20:28:12,714 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 20:28:12,760 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 20:28:12,798 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 20:28:12,798 [INFO] Initialized LangSmith Client.
+2025-02-04 20:28:23,083 [ERROR] Failed to create new connection using: f3253478ed3e4e30b6076b9904763588
+2025-02-04 20:28:23,085 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 20:28:34,021 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 20:28:34,022 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 20:28:34,067 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 20:28:34,105 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 20:28:34,106 [INFO] Initialized LangSmith Client.
+2025-02-04 20:28:44,521 [ERROR] Failed to create new connection using: 3af4b17fbdc44b30bc60479deab03424
+2025-02-04 20:28:44,521 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 21:35:48,191 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 21:35:48,192 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 21:35:48,243 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 21:35:48,284 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 21:35:48,287 [INFO] Initialized LangSmith Client.
+2025-02-04 21:35:58,988 [ERROR] Failed to create new connection using: b96d3ae962684198afc2c7a636eb62fa
+2025-02-04 21:35:58,990 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 21:36:27,678 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 21:36:27,679 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 21:36:27,724 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 21:36:27,761 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 21:36:27,762 [INFO] Initialized LangSmith Client.
+2025-02-04 21:36:38,196 [ERROR] Failed to create new connection using: 64a39a12b94c48988e06248adcd6369c
+2025-02-04 21:36:38,198 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 21:46:52,364 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 21:46:52,365 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 21:46:52,412 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 21:46:52,451 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 21:46:52,452 [INFO] Initialized LangSmith Client.
+2025-02-04 21:47:02,903 [ERROR] Failed to create new connection using: bf1e05bc7cc24fe499a0cf06d5d20866
+2025-02-04 21:47:02,905 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 21:47:30,038 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 21:47:30,040 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 21:47:30,087 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 21:47:30,129 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 21:47:30,131 [INFO] Initialized LangSmith Client.
+2025-02-04 21:47:32,713 [INFO] Connected to Milvus vector store.
+2025-02-04 21:47:32,715 [INFO] Initialized RetrievalQA chain.
+2025-02-04 21:47:33,265 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-02-04 21:47:33,265 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-02-04 21:47:33,463 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-04 21:47:33,463 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-04 21:47:33,464 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:33,634 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-02-04 21:47:33,634 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-02-04 21:47:33,634 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-02-04 21:47:33,634 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-02-04 21:47:33,952 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:33,953 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-04 21:47:34,167 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:34,343 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:34,344 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:34,537 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-04 21:47:34,537 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:34,537 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-04 21:47:34,537 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:34,537 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:34,537 [INFO] Total files found: 19
+2025-02-04 21:47:34,537 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-04 21:47:36,053 [INFO] Download Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf: 100%.
+2025-02-04 21:47:36,053 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-02-04 21:47:36,054 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:38,065 [INFO] Download Copy of Austin-AI-Alliance Project - Communications Plan.docx: 100%.
+2025-02-04 21:47:38,065 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-02-04 21:47:38,065 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:39,288 [INFO] Download Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx: 100%.
+2025-02-04 21:47:39,289 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-02-04 21:47:39,289 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:40,208 [INFO] Download Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx: 100%.
+2025-02-04 21:47:40,209 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-02-04 21:47:40,209 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:41,257 [INFO] Download Copy of Stage 1 Austin AI Alliance Project Template-V03.docx: 100%.
+2025-02-04 21:47:41,257 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-02-04 21:47:41,258 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:42,858 [INFO] Download Copy of Austin AI Alliance Project Process.docx: 100%.
+2025-02-04 21:47:42,860 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-02-04 21:47:42,860 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-04 21:47:44,161 [WARNING] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form.pdf: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4/export?mimeType=application%2Fpdf&alt=media returned "The requested conversion is not supported.". Details: "[{'message': 'The requested conversion is not supported.', 'domain': 'global', 'reason': 'badRequest', 'location': 'convertTo', 'locationType': 'parameter'}]">
+2025-02-04 21:47:44,161 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-04 21:47:45,313 [INFO] Download Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf: 100%.
+2025-02-04 21:47:45,313 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-02-04 21:47:45,314 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:46,857 [INFO] Download Copy of Project-Objectives.docx: 100%.
+2025-02-04 21:47:46,858 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-02-04 21:47:46,858 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:47,993 [INFO] Download Copy of Panel Prep - Open Source AI Night 2024.pdf: 100%.
+2025-02-04 21:47:47,993 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-02-04 21:47:47,993 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-04 21:47:53,051 [INFO] Download Copy of open-source AI night.pptx: 100%.
+2025-02-04 21:47:53,052 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-02-04 21:47:53,053 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:53,891 [INFO] Download Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf: 100%.
+2025-02-04 21:47:53,892 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-02-04 21:47:53,892 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:54,923 [INFO] Download Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx: 100%.
+2025-02-04 21:47:54,923 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-02-04 21:47:54,923 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:47:55,961 [INFO] Download Copy of Austin AI Alliance State of AI 2025.pdf: 100%.
+2025-02-04 21:47:55,961 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-02-04 21:47:55,961 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-04 21:47:57,373 [INFO] Download Copy of Copy of AAIA Communications Plan.xlsx: 100%.
+2025-02-04 21:47:57,373 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-02-04 21:47:57,373 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:47:58,396 [INFO] Download Copy of AAIFF Bylaws DRAFT.docx: 100%.
+2025-02-04 21:47:58,396 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-02-04 21:47:58,396 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-04 21:47:58,920 [INFO] Download Copy of Austin AIFF Spec Schedule PDF.pdf: 100%.
+2025-02-04 21:47:58,921 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-02-04 21:47:58,921 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-04 21:48:00,052 [INFO] Download Copy of AAIFF Sponsorship Packet.docx: 100%.
+2025-02-04 21:48:00,052 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-02-04 21:48:00,052 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-04 21:48:01,983 [INFO] Download Copy of Austin AI Film Festival Business Plan.pdf: 100%.
+2025-02-04 21:48:01,984 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-02-04 21:48:02,474 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 21:48:05,359 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:09,086 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:09,710 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:10,051 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:10,281 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:11,497 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:11,838 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:18,263 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:21,580 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:21,733 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 21:48:25,737 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:26,660 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:27,619 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:46,319 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:49,971 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 21:48:52,872 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:54,973 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:55,578 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:48:55,676 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 21:49:00,831 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:04,343 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:05,005 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:06,085 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:07,185 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:09,461 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:11,408 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:11,653 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-04 21:49:18,268 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:26,663 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:27,384 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:27,599 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:27,848 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-04 21:49:27,894 [INFO] Loaded 420 documents from UnstructuredLoader.
+2025-02-04 21:49:27,895 [INFO] Filtered to 420 documents after metadata filtering.
+2025-02-04 21:49:27,897 [INFO] Loaded 420 docs from UnstructuredLoader.
+2025-02-04 21:49:27,898 [INFO] Number of docs: 420, batch size: 99
+2025-02-04 21:49:27,898 [INFO] Storing batch 0 to 99
+2025-02-04 21:49:29,003 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:29,941 [INFO] Stored current batch in Milvus
+2025-02-04 21:49:29,941 [INFO] Storing batch 99 to 198
+2025-02-04 21:49:29,941 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:29,941 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:29,941 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:29,942 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:29,942 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:30,657 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:31,673 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:31,748 [INFO] Stored current batch in Milvus
+2025-02-04 21:49:31,748 [INFO] Storing batch 198 to 297
+2025-02-04 21:49:31,748 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-04 21:49:33,102 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:33,402 [INFO] Stored current batch in Milvus
+2025-02-04 21:49:33,402 [INFO] Storing batch 297 to 396
+2025-02-04 21:49:34,985 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:35,357 [INFO] Stored current batch in Milvus
+2025-02-04 21:49:35,357 [INFO] Storing batch 396 to 420
+2025-02-04 21:49:36,170 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-04 21:49:36,377 [INFO] Stored current batch in Milvus
+2025-02-04 21:49:36,378 [INFO] Embeddings stored successfully in Milvus.
+2025-02-04 21:49:38,300 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 21:49:38,301 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 21:49:38,344 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 21:49:38,381 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 21:49:38,382 [INFO] Initialized LangSmith Client.
+2025-02-04 21:49:48,391 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on localhost:19530, illegal connection params or server unavailable)>
+2025-02-04 22:05:25,450 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 22:05:25,452 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 22:05:25,497 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 22:05:25,535 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 22:05:35,796 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-04 22:05:35,797 [INFO] Successfully authenticated with Google Drive.
+2025-02-04 22:05:35,839 [INFO] Initialized OpenAI Embeddings model.
+2025-02-04 22:05:35,876 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-04 22:05:35,877 [INFO] Initialized LangSmith Client.
+2025-02-04 22:05:45,895 [WARNING] Milvus not ready (attempt 1/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:06:00,906 [WARNING] Milvus not ready (attempt 2/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:06:15,916 [WARNING] Milvus not ready (attempt 3/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:06:30,922 [WARNING] Milvus not ready (attempt 4/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:06:45,935 [WARNING] Milvus not ready (attempt 5/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:07:00,943 [WARNING] Milvus not ready (attempt 6/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:07:15,952 [WARNING] Milvus not ready (attempt 7/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:07:30,960 [WARNING] Milvus not ready (attempt 8/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:07:45,972 [WARNING] Milvus not ready (attempt 9/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:08:00,979 [WARNING] Milvus not ready (attempt 10/10): <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>. Retrying in 5 seconds...
+2025-02-04 22:08:05,980 [ERROR] Failed to connect to Milvus after multiple attempts.
+2025-02-05 22:56:09,577 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 22:56:09,579 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 22:56:09,623 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 22:56:09,663 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 22:56:09,664 [INFO] Initialized LangSmith Client.
+2025-02-05 22:56:19,678 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>
+2025-02-05 22:58:47,049 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 22:58:47,050 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 22:58:47,095 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 22:58:47,135 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 22:58:47,136 [INFO] Initialized LangSmith Client.
+2025-02-05 22:58:57,147 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>
+2025-02-05 22:59:08,580 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 22:59:08,581 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 22:59:08,623 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 22:59:08,661 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 22:59:08,662 [INFO] Initialized LangSmith Client.
+2025-02-05 22:59:18,674 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>
+2025-02-05 23:00:16,046 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 23:00:16,048 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 23:00:16,091 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 23:00:16,129 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 23:00:16,130 [INFO] Initialized LangSmith Client.
+2025-02-05 23:00:26,140 [ERROR] Failed to connect to Milvus vector store: <MilvusException: (code=2, message=Fail connecting to server on milvus:19530, illegal connection params or server unavailable)>
+2025-02-05 23:01:52,823 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 23:01:52,825 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 23:01:52,867 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 23:01:52,907 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 23:01:52,908 [INFO] Initialized LangSmith Client.
+2025-02-05 23:01:54,000 [INFO] Connected to Milvus vector store.
+2025-02-05 23:01:54,000 [INFO] Initialized RetrievalQA chain.
+2025-02-05 23:01:54,699 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-02-05 23:01:54,699 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-02-05 23:01:55,029 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-05 23:01:55,029 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,029 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,029 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,030 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,030 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,030 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-05 23:01:55,030 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-05 23:01:55,030 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,266 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-02-05 23:01:55,266 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-02-05 23:01:55,266 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-02-05 23:01:55,267 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-02-05 23:01:55,431 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:01:55,431 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-05 23:01:55,653 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:01:55,875 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:55,875 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:01:56,081 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-05 23:01:56,081 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:56,081 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-05 23:01:56,082 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:01:56,082 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:01:56,082 [INFO] Total files found: 19
+2025-02-05 23:01:56,082 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-02-05 23:01:57,750 [INFO] Download Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf: 100%.
+2025-02-05 23:01:57,752 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-02-05 23:01:57,752 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:00,083 [INFO] Download Copy of Austin-AI-Alliance Project - Communications Plan.docx: 100%.
+2025-02-05 23:02:00,083 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-02-05 23:02:00,083 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:02,975 [INFO] Download Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx: 100%.
+2025-02-05 23:02:02,976 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-02-05 23:02:02,976 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:03,987 [INFO] Download Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx: 100%.
+2025-02-05 23:02:03,988 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-02-05 23:02:03,988 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:04,924 [INFO] Download Copy of Stage 1 Austin AI Alliance Project Template-V03.docx: 100%.
+2025-02-05 23:02:04,925 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-02-05 23:02:04,925 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:06,786 [INFO] Download Copy of Austin AI Alliance Project Process.docx: 100%.
+2025-02-05 23:02:06,787 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-02-05 23:02:06,787 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-02-05 23:02:08,172 [WARNING] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form.pdf: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4/export?mimeType=application%2Fpdf&alt=media returned "The requested conversion is not supported.". Details: "[{'message': 'The requested conversion is not supported.', 'domain': 'global', 'reason': 'badRequest', 'location': 'convertTo', 'locationType': 'parameter'}]">
+2025-02-05 23:02:08,173 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-02-05 23:02:09,193 [INFO] Download Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf: 100%.
+2025-02-05 23:02:09,194 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-02-05 23:02:09,194 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:10,536 [INFO] Download Copy of Project-Objectives.docx: 100%.
+2025-02-05 23:02:10,537 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-02-05 23:02:10,537 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:02:11,918 [INFO] Download Copy of Panel Prep - Open Source AI Night 2024.pdf: 100%.
+2025-02-05 23:02:11,919 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-02-05 23:02:11,919 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-02-05 23:02:16,532 [INFO] Download Copy of open-source AI night.pptx: 100%.
+2025-02-05 23:02:16,534 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-02-05 23:02:16,534 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:02:17,361 [INFO] Download Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf: 100%.
+2025-02-05 23:02:17,363 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-02-05 23:02:17,363 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:18,798 [INFO] Download Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx: 100%.
+2025-02-05 23:02:18,798 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-02-05 23:02:18,798 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:02:19,781 [INFO] Download Copy of Austin AI Alliance State of AI 2025.pdf: 100%.
+2025-02-05 23:02:19,782 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-02-05 23:02:19,782 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-02-05 23:02:20,577 [INFO] Download Copy of Copy of AAIA Communications Plan.xlsx: 100%.
+2025-02-05 23:02:20,579 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-02-05 23:02:20,579 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:21,443 [INFO] Download Copy of AAIFF Bylaws DRAFT.docx: 100%.
+2025-02-05 23:02:21,444 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-02-05 23:02:21,444 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-02-05 23:02:22,382 [INFO] Download Copy of Austin AIFF Spec Schedule PDF.pdf: 100%.
+2025-02-05 23:02:22,382 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-02-05 23:02:22,382 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-02-05 23:02:23,948 [INFO] Download Copy of AAIFF Sponsorship Packet.docx: 100%.
+2025-02-05 23:02:23,949 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-02-05 23:02:23,950 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-02-05 23:02:25,711 [INFO] Download Copy of Austin AI Film Festival Business Plan.pdf: 100%.
+2025-02-05 23:02:25,714 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-02-05 23:02:26,552 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-05 23:02:29,667 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:32,535 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:33,307 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:33,584 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:33,947 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:34,094 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:34,396 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:38,842 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:39,064 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:39,147 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-05 23:02:42,618 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:43,355 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:02:44,863 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:02,664 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:08,228 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-05 23:03:10,960 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:12,772 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:13,406 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:13,494 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-05 23:03:18,778 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:21,011 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:22,844 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:23,738 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:24,992 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:27,306 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:29,472 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:29,821 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-02-05 23:03:36,743 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:45,210 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:45,513 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:46,826 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:47,306 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-02-05 23:03:47,364 [INFO] Loaded 420 documents from UnstructuredLoader.
+2025-02-05 23:03:47,365 [INFO] Filtered to 420 documents after metadata filtering.
+2025-02-05 23:03:47,367 [INFO] Loaded 420 docs from UnstructuredLoader.
+2025-02-05 23:03:47,367 [INFO] Number of docs: 420, batch size: 99
+2025-02-05 23:03:47,367 [INFO] Storing batch 0 to 99
+2025-02-05 23:03:49,147 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:49,339 [INFO] Stored current batch in Milvus
+2025-02-05 23:03:49,339 [INFO] Storing batch 99 to 198
+2025-02-05 23:03:49,339 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:49,340 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:49,340 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:49,341 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:49,342 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:50,468 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:50,899 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:50,980 [INFO] Stored current batch in Milvus
+2025-02-05 23:03:50,981 [INFO] Storing batch 198 to 297
+2025-02-05 23:03:50,981 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-02-05 23:03:52,080 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:52,405 [INFO] Stored current batch in Milvus
+2025-02-05 23:03:52,405 [INFO] Storing batch 297 to 396
+2025-02-05 23:03:53,189 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:53,492 [INFO] Stored current batch in Milvus
+2025-02-05 23:03:53,492 [INFO] Storing batch 396 to 420
+2025-02-05 23:03:54,127 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:03:54,346 [INFO] Stored current batch in Milvus
+2025-02-05 23:03:54,346 [INFO] Embeddings stored successfully in Milvus.
+2025-02-05 23:08:04,778 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 23:08:04,780 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 23:08:04,822 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 23:08:04,863 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 23:08:04,865 [INFO] Initialized LangSmith Client.
+2025-02-05 23:08:05,919 [INFO] Connected to Milvus vector store.
+2025-02-05 23:08:05,926 [INFO] Initialized RetrievalQA chain.
+2025-02-05 23:10:10,579 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-05 23:10:10,581 [INFO] Successfully authenticated with Google Drive.
+2025-02-05 23:10:10,624 [INFO] Initialized OpenAI Embeddings model.
+2025-02-05 23:10:10,663 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-05 23:10:10,664 [INFO] Initialized LangSmith Client.
+2025-02-05 23:10:11,833 [INFO] Connected to Milvus vector store.
+2025-02-05 23:10:11,834 [INFO] Initialized RetrievalQA chain.
+2025-02-05 23:10:56,709 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:10:58,097 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:11:15,503 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:11:18,174 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:11:30,702 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:11:31,785 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:11:43,876 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:11:44,530 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:15:36,935 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:15:37,463 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:15:42,033 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:15:43,511 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:15:56,161 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:15:56,893 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:16:07,996 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:16:08,615 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 23:16:16,022 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-05 23:16:16,524 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
