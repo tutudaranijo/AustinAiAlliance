@@ -1600,3 +1600,16 @@
 2025-02-06 00:17:03,637 [INFO] Initialized RetrievalQA chain.
 2025-02-06 00:17:11,615 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 2025-02-06 00:17:12,448 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-06 19:29:45,762 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-02-06 19:29:45,764 [INFO] Successfully authenticated with Google Drive.
+2025-02-06 19:29:45,850 [INFO] Initialized OpenAI Embeddings model.
+2025-02-06 19:29:45,888 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-02-06 19:29:45,890 [INFO] Initialized LangSmith Client.
+2025-02-06 19:29:47,188 [INFO] Connected to Milvus vector store.
+2025-02-06 19:29:47,189 [INFO] Initialized RetrievalQA chain.
+2025-02-06 19:30:17,583 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-06 19:30:18,446 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-06 19:31:00,191 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-06 19:31:02,944 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-06 19:31:09,399 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-06 19:31:09,906 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
