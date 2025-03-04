@@ -5,19 +5,19 @@ import threading
 import time
 
 # 1. Import the FastAPI app from main.py
-from main import app as fastapi_app
-
-# 2. Define a function to start Uvicorn
-def start_fastapi():
-    uvicorn.run(fastapi_app, host="127.0.0.1", port=8000, log_level="info")
-
-# 3. Start the FastAPI server in a background thread if not started yet
-if "fastapi_started" not in st.session_state:
-    st.session_state["fastapi_started"] = True
-    thread = threading.Thread(target=start_fastapi, daemon=True)
-    thread.start()
-    # Give the server a moment to start
-    time.sleep(2)
+##from main import app as fastapi_app
+##
+### 2. Define a function to start Uvicorn
+##def start_fastapi():
+##    uvicorn.run(fastapi_app, host="127.0.0.1", port=8000, log_level="info")
+##
+### 3. Start the FastAPI server in a background thread if not started yet
+##if "fastapi_started" not in st.session_state:
+##    st.session_state["fastapi_started"] = True
+##    thread = threading.Thread(target=start_fastapi, daemon=True)
+##    thread.start()
+##    # Give the server a moment to start
+##    time.sleep(2)
 
 # The rest of your Streamlit code remains the same:
 
