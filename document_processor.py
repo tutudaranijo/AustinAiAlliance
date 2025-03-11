@@ -25,9 +25,11 @@ from langfuse.callback import CallbackHandler
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
 import pinecone
 
-# Updated LangChain imports for embeddings and vectorstores:
+# Updated embedding and vectorstore imports:
 from langchain_community.embeddings import OpenAIEmbeddings
-from langchain_community.vectorstores import Pinecone
+# Instead of importing Pinecone from langchain_community.vectorstores, 
+# we now use the new package:
+from langchain_pinecone import Pinecone
 
 from langchain_community.vectorstores.utils import filter_complex_metadata
 from langchain.chains import RetrievalQA
@@ -104,7 +106,7 @@ except Exception as e:
 # 3. Set Up Embedding and LLM
 ################################
 try:
-    # Use the OpenAI embedding model "text-embedding-3-large" which returns 3072-dimensional embeddings.
+    # This model returns 3072-dimensional embeddings.
     embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
     logging.info("Initialized OpenAI Embeddings model with 'text-embedding-3-large'.")
 except Exception as e:
@@ -153,8 +155,8 @@ except Exception as e:
     exit(1)
 
 # IMPORTANT:
-# Because "text-embedding-3-large" produces 3072-dimensional vectors,
-# we must create the index with dimension=3072.
+# "text-embedding-3-large" produces 3072-dimensional vectors.
+# We must create the index with dimension=3072.
 try:
     existing_indexes = pc.list_indexes().names()
     if INDEX_NAME in existing_indexes:
