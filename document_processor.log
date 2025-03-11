@@ -2106,3 +2106,379 @@
 2025-02-18 17:19:55,796 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-02-18 17:20:19,286 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 2025-02-18 17:20:19,811 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-10 14:35:53,920 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:35:53,922 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:35:54,108 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:35:54,150 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:35:54,153 [INFO] Initialized LangSmith Client.
+2025-03-10 14:35:54,153 [ERROR] Failed to initialize Pinecone: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+2025-03-10 14:38:21,151 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:38:21,153 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:38:21,302 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:38:21,341 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:38:21,343 [INFO] Initialized LangSmith Client.
+2025-03-10 14:38:21,344 [INFO] Initialized Pinecone client.
+2025-03-10 14:38:22,338 [ERROR] Failed to create or list Pinecone indexes: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2025-01', 'X-Cloud-Trace-Context': 'a1831eaa07b281c9fe4532ebd71cce89', 'Date': 'Mon, 10 Mar 2025 19:38:22 GMT', 'Server': 'Google Frontend', 'Content-Length': '98', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource cloud: aws region: None not found"},"status":404}
+
+2025-03-10 14:38:39,578 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:38:39,579 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:38:39,717 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:38:39,756 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:38:39,758 [INFO] Initialized LangSmith Client.
+2025-03-10 14:38:39,758 [INFO] Initialized Pinecone client.
+2025-03-10 14:38:40,651 [ERROR] Failed to create or list Pinecone indexes: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2025-01', 'X-Cloud-Trace-Context': '2a03d3932e36ab742d0fb5f6d5c5f3bc', 'Date': 'Mon, 10 Mar 2025 19:38:40 GMT', 'Server': 'Google Frontend', 'Content-Length': '98', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource cloud: aws region: None not found"},"status":404}
+
+2025-03-10 14:40:52,664 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:40:52,667 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:40:52,818 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:40:52,858 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:40:52,860 [INFO] Initialized LangSmith Client.
+2025-03-10 14:40:52,861 [INFO] Initialized Pinecone client.
+2025-03-10 14:40:53,156 [ERROR] Failed to create or list Pinecone indexes: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 19:40:53 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'server': 'envoy'})
+
+2025-03-10 14:41:02,341 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:41:02,343 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:41:02,476 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:41:02,513 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:41:02,515 [INFO] Initialized LangSmith Client.
+2025-03-10 14:41:02,516 [INFO] Initialized Pinecone client.
+2025-03-10 14:41:02,746 [ERROR] Failed to create or list Pinecone indexes: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 19:41:02 GMT', 'Content-Length': '0', 'Connection': 'keep-alive', 'server': 'envoy'})
+
+2025-03-10 14:43:12,423 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:43:12,425 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:43:12,580 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:43:12,621 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:43:12,623 [INFO] Initialized LangSmith Client.
+2025-03-10 14:43:12,624 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 14:43:13,001 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 14:43:14,979 [ERROR] Failed to connect to Pinecone vector store: client should be an instance of pinecone.Index, got <class 'pinecone.data.index.Index'>
+2025-03-10 14:49:49,785 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:49:49,787 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:49:49,937 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:49:49,978 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:49:49,980 [INFO] Initialized LangSmith Client.
+2025-03-10 14:49:49,980 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 14:49:50,207 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 14:49:50,207 [ERROR] Failed to connect to Pinecone vector store: You are attempting to access the Index client directly from the pinecone module. The Index client must be instantiated through the parent Pinecone client instance so that it can inherit shared configurations such as API key.
+
+    INCORRECT USAGE:
+        ```
+        import pinecone
+
+        pc = pinecone.Pinecone(api_key='your-api-key')
+        index = pinecone.Index('aaiachatbot')
+        ```
+
+    CORRECT USAGE:
+        ```
+        from pinecone import Pinecone
+
+        pc = Pinecone(api_key='your-api-key')
+        index = pc.Index('aaiachatbot')
+        ```
+        
+2025-03-10 14:51:00,372 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:51:00,374 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:51:00,508 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:51:00,546 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:51:00,548 [INFO] Initialized LangSmith Client.
+2025-03-10 14:51:00,548 [ERROR] Failed to create or list Pinecone indexes: name 'pc' is not defined
+2025-03-10 14:54:36,048 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:54:36,050 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:54:36,204 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:54:36,244 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:54:36,246 [INFO] Initialized LangSmith Client.
+2025-03-10 14:54:36,247 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 14:54:36,422 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 14:54:37,450 [ERROR] Failed to connect to Pinecone vector store: __init__() got an unexpected keyword argument 'embedding_function'
+2025-03-10 14:56:24,481 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 14:56:24,483 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 14:56:24,641 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 14:56:24,683 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 14:56:24,685 [INFO] Initialized LangSmith Client.
+2025-03-10 14:56:24,686 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/Downloads/visualstudio/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-10 14:56:24,686 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-10 14:56:24,696 [INFO] Installing plugin inference into Pinecone
+2025-03-10 14:56:24,697 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 14:56:25,256 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 15:03:06,207 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 15:03:06,209 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 15:03:06,784 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 15:03:06,824 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 15:03:06,826 [INFO] Initialized LangSmith Client.
+2025-03-10 15:03:06,828 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/Downloads/visualstudio/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-10 15:03:06,828 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-10 15:03:06,838 [INFO] Installing plugin inference into Pinecone
+2025-03-10 15:03:06,838 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 15:03:08,477 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 15:14:46,276 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-10 15:14:46,278 [INFO] Successfully authenticated with Google Drive.
+2025-03-10 15:14:46,507 [INFO] Initialized OpenAI Embeddings model.
+2025-03-10 15:14:46,546 [INFO] Initialized LLM provider 'openai' with model 'gpt-4o-mini'.
+2025-03-10 15:14:46,548 [INFO] Initialized LangSmith Client.
+2025-03-10 15:14:46,549 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/Downloads/visualstudio/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-10 15:14:46,550 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-10 15:14:46,560 [INFO] Installing plugin inference into Pinecone
+2025-03-10 15:14:46,561 [INFO] Initialized Pinecone client using environment parameter.
+2025-03-10 15:14:46,764 [INFO] Pinecone index 'aaiachatbot' already exists.
+2025-03-10 15:14:46,848 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/Downloads/visualstudio/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-10 15:14:46,849 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-10 15:14:46,849 [INFO] Connected to Pinecone vector store.
+2025-03-10 15:14:46,850 [INFO] Initialized RetrievalQA chain.
+2025-03-10 15:14:47,565 [INFO] Found subfolder: MemberInfo (ID: 15BuTL0sEasnOYxZNtCtXGkoRMufH7M_J)
+2025-03-10 15:14:47,566 [INFO] Found subfolder: Events (ID: 1BLIwm20Kpvu13F8oAGm8yV2VVhmi4v1a)
+2025-03-10 15:14:47,566 [INFO] Found subfolder: Projects (ID: 1SqxWET4GDG3TsUnND5rJXrc-swkkRVRK)
+2025-03-10 15:14:47,877 [INFO] Found file: Austin Ai Alliance Chatbot Project.docx (ID: 1vGKD5JoxRTUnfUUCVp47gZAjFydaAkSD, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,877 [INFO] Found file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-03-10 15:14:47,878 [INFO] Found file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: Chatbot QA Information (ID: 1ucrNLwO8eih3v2SCkQb-XO4BFQdG4DR5)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: Members (ID: 1fEytQJRnk_z5b88H8zcEAzFPpC-i5wF7)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: Austin AI Film Festival (ID: 1QP3CSGYatqoaCA0eSNuwStE2q36myiYw)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: AAIA/ State of AI Launch (ID: 1HwRZQfbemqIGYftxG_RIQgAkDgeBU6oz)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: 2025 Gala (ID: 1pV8YpQss7k0tC5xCwxPe33AlrT7rvtjZ)
+2025-03-10 15:14:48,081 [INFO] Found subfolder: Open Source 12-4-24 (ID: 1Fk0yAUhQ2ZRIPIXux-Z5WjEcCK78qQOQ)
+2025-03-10 15:14:48,256 [INFO] Found file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:48,257 [INFO] Found file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-03-10 15:14:48,441 [INFO] Found file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:48,617 [INFO] Found file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:48,617 [INFO] Found file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:48,953 [INFO] Found file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-03-10 15:14:48,954 [INFO] Found file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:48,954 [INFO] Found file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-03-10 15:14:48,954 [INFO] Found file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:48,954 [INFO] Found file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,195 [INFO] Found file: 0. Board Seats (ID: 1vyvLwppJbDUEx7qTUWrzK0aM1k2LyPFLWzsKRB-5Rs0, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,195 [INFO] Found file: README (ID: 1_TYIakLSTROXN-2IZDPhbpMSalL3-OxW2EcNCOsvIeA, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,195 [INFO] Found subfolder: member_profile_docs (ID: 1f_lOt5hhmTABg4RFwscZIQxhhKlUQj-p)
+2025-03-10 15:14:49,195 [INFO] Found subfolder: templates (ID: 1z_aZgKxk9IMObDJpsXrXr1QbGv1wLZqK)
+2025-03-10 15:14:49,817 [INFO] Found file: Organization Member Template (ID: 1l2PLRLmnURCv3HtT-6o4NDWLWnOp0FNG6vIqXrzNax4, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,817 [INFO] Found file: Individual Member Template (ID: 1-A53llX3lvqBrrrD9vqMLTNde6NFKwPJMC0uMxKOTd8, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,817 [INFO] Found file: Committee Profile (ID: 1r1usqnuzaLnRogw_zGtHdXtnlCdttz8L_oAPxa5eLmw, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,983 [INFO] Found file: Jonny Johnson (ID: 1FWP1t8UEtimL2fHLUBFDs12NyDri0V9jhLIK6kAfsn0, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:49,983 [INFO] Found file: Yo Mama (ID: 1x6lkg-pJZ5wYUs8zBfDw6s3hnkf4wHSK6zay_ZgzyBQ, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:50,169 [INFO] Found file: RAG-Based QA Chatbot: Tips & Tricks (ID: 1mWPT3XDMGR2513vvepHMfBmiZqpQYS0kxYRGcZrKxoU, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:14:50,380 [INFO] Found file: JohnDoeMembership.docx (ID: 19Ues4Y8yt3cYNWeqc2wptNpHthjFo1Eo, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:50,380 [INFO] Total files found: 29
+2025-03-10 15:14:50,380 [INFO] Processing file: Austin Ai Alliance Chatbot Project.docx (ID: 1vGKD5JoxRTUnfUUCVp47gZAjFydaAkSD, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:52,897 [INFO] Download Austin Ai Alliance Chatbot Project.docx: 100%.
+2025-03-10 15:14:52,898 [INFO] Downloaded to: downloads/Austin Ai Alliance Chatbot Project.docx
+2025-03-10 15:14:52,899 [INFO] Processing file: Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf (ID: 1Mqqz6lS6aAnPTnYpK4DOhuPDvKV87Wr5, MIME Type: application/pdf)
+2025-03-10 15:14:54,319 [INFO] Download Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf: 100%.
+2025-03-10 15:14:54,321 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project - Charter - July 2024-V3.pdf
+2025-03-10 15:14:54,321 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Communications Plan.docx (ID: 1JHV2FUF9GZRNNJ90qU_AK6w7zFNYKTFi, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:56,119 [INFO] Download Copy of Austin-AI-Alliance Project - Communications Plan.docx: 100%.
+2025-03-10 15:14:56,119 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Communications Plan.docx
+2025-03-10 15:14:56,119 [INFO] Processing file: Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx (ID: 1UW585j-njkpWdiQhOCdKE9IWkAQeDwyh, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:57,237 [INFO] Download Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx: 100%.
+2025-03-10 15:14:57,238 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project Committee - Roles Responsiblities.docx
+2025-03-10 15:14:57,238 [INFO] Processing file: Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx (ID: 1Q_ZFgaoj4W1QaZv3wBSFsNvq1oqwor9Z, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:58,214 [INFO] Download Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx: 100%.
+2025-03-10 15:14:58,215 [INFO] Downloaded to: downloads/Copy of Stage 2-3-4 Austin AI Alliance Project Template-V02.docx
+2025-03-10 15:14:58,215 [INFO] Processing file: Copy of Stage 1 Austin AI Alliance Project Template-V03.docx (ID: 1wVcTD1D2wSozJlWmnJNirPvefp7vzg8R, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:14:59,020 [INFO] Download Copy of Stage 1 Austin AI Alliance Project Template-V03.docx: 100%.
+2025-03-10 15:14:59,020 [INFO] Downloaded to: downloads/Copy of Stage 1 Austin AI Alliance Project Template-V03.docx
+2025-03-10 15:14:59,021 [INFO] Processing file: Copy of Austin AI Alliance Project Process.docx (ID: 1dqF-d-yl1J9HiamVGFMPkO7ibppVl4cl, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:00,759 [INFO] Download Copy of Austin AI Alliance Project Process.docx: 100%.
+2025-03-10 15:15:00,760 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance Project Process.docx
+2025-03-10 15:15:00,761 [INFO] Processing file: Copy of 00-Idea/Problem intake form (ID: 1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4, MIME Type: application/vnd.google-apps.form)
+2025-03-10 15:15:02,128 [WARNING] HTTP error occurred while downloading Copy of 00-Idea/Problem intake form.pdf: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1erJctlp1ttTRSCO8KkbFfitJxHsQXVpo_wzVcCHQ9U4/export?mimeType=application%2Fpdf&alt=media returned "The requested conversion is not supported.". Details: "[{'message': 'The requested conversion is not supported.', 'domain': 'global', 'reason': 'badRequest', 'location': 'convertTo', 'locationType': 'parameter'}]">
+2025-03-10 15:15:02,128 [INFO] Processing file: Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf (ID: 1SHw2aDHQj774Ja9VU_IF1wSDnhzsKjdT, MIME Type: application/pdf)
+2025-03-10 15:15:03,439 [INFO] Download Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf: 100%.
+2025-03-10 15:15:03,440 [INFO] Downloaded to: downloads/Copy of Austin-AI-Alliance Project - Schedule Jul-Aug-2024 .pdf
+2025-03-10 15:15:03,441 [INFO] Processing file: Copy of Project-Objectives.docx (ID: 1qGt4YRrXUbGTPMgQfs22_vCvsvK-EEFr, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:04,881 [INFO] Download Copy of Project-Objectives.docx: 100%.
+2025-03-10 15:15:04,883 [INFO] Downloaded to: downloads/Copy of Project-Objectives.docx
+2025-03-10 15:15:04,884 [INFO] Processing file: Copy of Panel Prep - Open Source AI Night 2024 (ID: 1PaFGG1-Tm4nKZgyS9VSfsDdRUXnSC1wokJYkqCaUMGw, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:05,766 [INFO] Download Copy of Panel Prep - Open Source AI Night 2024.pdf: 100%.
+2025-03-10 15:15:05,767 [INFO] Downloaded to: downloads/Copy of Panel Prep - Open Source AI Night 2024.pdf
+2025-03-10 15:15:05,767 [INFO] Processing file: Copy of open-source AI night.pptx (ID: 1zNxO3gl9y_bzKww4QZnQf-v5EozA7NDz, MIME Type: application/vnd.openxmlformats-officedocument.presentationml.presentation)
+2025-03-10 15:15:10,986 [INFO] Download Copy of open-source AI night.pptx: 100%.
+2025-03-10 15:15:10,987 [INFO] Downloaded to: downloads/Copy of open-source AI night.pptx
+2025-03-10 15:15:10,987 [INFO] Processing file: Copy of AAIA Gala Planning - First Meeting Agenda and Minutes (ID: 131KMLo0wrk-OFMjn8T9G5oIw8SdU7r3MtcIsoABSC4I, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:11,946 [INFO] Download Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf: 100%.
+2025-03-10 15:15:11,947 [INFO] Downloaded to: downloads/Copy of AAIA Gala Planning - First Meeting Agenda and Minutes.pdf
+2025-03-10 15:15:11,947 [INFO] Processing file: Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx (ID: 1weN_lGxC9aQXZIwDexxXxbs3wSQC6OQT, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:13,151 [INFO] Download Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx: 100%.
+2025-03-10 15:15:13,151 [INFO] Downloaded to: downloads/Copy of Save_The_Date_State_of_AI_Event_NEARFINAL.docx
+2025-03-10 15:15:13,151 [INFO] Processing file: Copy of Austin AI Alliance State of AI 2025 (ID: 1KODtSdbSvEL0LN69_iRgdrLrQ7dMcqv_MyZPT_5JfmI, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:14,192 [INFO] Download Copy of Austin AI Alliance State of AI 2025.pdf: 100%.
+2025-03-10 15:15:14,192 [INFO] Downloaded to: downloads/Copy of Austin AI Alliance State of AI 2025.pdf
+2025-03-10 15:15:14,192 [INFO] Processing file: Copy of Copy of AAIA Communications Plan (ID: 1OOzRGS4XwT2XOUjE2lfnDxlSjKulojmOWbXTMwdi6Jc, MIME Type: application/vnd.google-apps.spreadsheet)
+2025-03-10 15:15:15,168 [INFO] Download Copy of Copy of AAIA Communications Plan.xlsx: 100%.
+2025-03-10 15:15:15,168 [INFO] Downloaded to: downloads/Copy of Copy of AAIA Communications Plan.xlsx
+2025-03-10 15:15:15,168 [INFO] Processing file: Copy of AAIFF Bylaws DRAFT.docx (ID: 1oRyJQ1Mui4m8hCTvt5cEEwb4aTaWrFbK, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:16,181 [INFO] Download Copy of AAIFF Bylaws DRAFT.docx: 100%.
+2025-03-10 15:15:16,182 [INFO] Downloaded to: downloads/Copy of AAIFF Bylaws DRAFT.docx
+2025-03-10 15:15:16,182 [INFO] Processing file: Copy of Austin AIFF Spec Schedule PDF.pdf (ID: 1QJaYZodajqzC3oJfSaA0Ds8xdGzaN3XZ, MIME Type: application/pdf)
+2025-03-10 15:15:16,668 [INFO] Download Copy of Austin AIFF Spec Schedule PDF.pdf: 100%.
+2025-03-10 15:15:16,669 [INFO] Downloaded to: downloads/Copy of Austin AIFF Spec Schedule PDF.pdf
+2025-03-10 15:15:16,669 [INFO] Processing file: Copy of AAIFF Sponsorship Packet.docx (ID: 1PsmUqfbLrXRYAjDRCjrlOtPdIWWePFjA, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:18,634 [INFO] Download Copy of AAIFF Sponsorship Packet.docx: 100%.
+2025-03-10 15:15:18,637 [INFO] Downloaded to: downloads/Copy of AAIFF Sponsorship Packet.docx
+2025-03-10 15:15:18,637 [INFO] Processing file: Copy of Austin AI Film Festival Business Plan (ID: 16hew162W37YXgi8kaLXto4ovdLx0vjXFt2GdiDUVGrc, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:21,094 [INFO] Download Copy of Austin AI Film Festival Business Plan.pdf: 100%.
+2025-03-10 15:15:21,095 [INFO] Downloaded to: downloads/Copy of Austin AI Film Festival Business Plan.pdf
+2025-03-10 15:15:21,095 [INFO] Processing file: 0. Board Seats (ID: 1vyvLwppJbDUEx7qTUWrzK0aM1k2LyPFLWzsKRB-5Rs0, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:21,854 [INFO] Download 0.pdf: 100%.
+2025-03-10 15:15:21,856 [INFO] Downloaded to: downloads/0.pdf
+2025-03-10 15:15:21,856 [INFO] Processing file: README (ID: 1_TYIakLSTROXN-2IZDPhbpMSalL3-OxW2EcNCOsvIeA, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:22,693 [INFO] Download README.pdf: 100%.
+2025-03-10 15:15:22,694 [INFO] Downloaded to: downloads/README.pdf
+2025-03-10 15:15:22,694 [INFO] Processing file: Organization Member Template (ID: 1l2PLRLmnURCv3HtT-6o4NDWLWnOp0FNG6vIqXrzNax4, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:23,512 [INFO] Download Organization Member Template.pdf: 100%.
+2025-03-10 15:15:23,513 [INFO] Downloaded to: downloads/Organization Member Template.pdf
+2025-03-10 15:15:23,513 [INFO] Processing file: Individual Member Template (ID: 1-A53llX3lvqBrrrD9vqMLTNde6NFKwPJMC0uMxKOTd8, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:24,322 [INFO] Download Individual Member Template.pdf: 100%.
+2025-03-10 15:15:24,323 [INFO] Downloaded to: downloads/Individual Member Template.pdf
+2025-03-10 15:15:24,323 [INFO] Processing file: Committee Profile (ID: 1r1usqnuzaLnRogw_zGtHdXtnlCdttz8L_oAPxa5eLmw, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:25,031 [INFO] Download Committee Profile.pdf: 100%.
+2025-03-10 15:15:25,032 [INFO] Downloaded to: downloads/Committee Profile.pdf
+2025-03-10 15:15:25,032 [INFO] Processing file: Jonny Johnson (ID: 1FWP1t8UEtimL2fHLUBFDs12NyDri0V9jhLIK6kAfsn0, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:25,870 [INFO] Download Jonny Johnson.pdf: 100%.
+2025-03-10 15:15:25,871 [INFO] Downloaded to: downloads/Jonny Johnson.pdf
+2025-03-10 15:15:25,871 [INFO] Processing file: Yo Mama (ID: 1x6lkg-pJZ5wYUs8zBfDw6s3hnkf4wHSK6zay_ZgzyBQ, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:26,890 [INFO] Download Yo Mama.pdf: 100%.
+2025-03-10 15:15:26,891 [INFO] Downloaded to: downloads/Yo Mama.pdf
+2025-03-10 15:15:26,891 [INFO] Processing file: RAG-Based QA Chatbot: Tips & Tricks (ID: 1mWPT3XDMGR2513vvepHMfBmiZqpQYS0kxYRGcZrKxoU, MIME Type: application/vnd.google-apps.document)
+2025-03-10 15:15:28,544 [INFO] Download RAG-Based QA Chatbot: Tips & Tricks.pdf: 100%.
+2025-03-10 15:15:28,545 [INFO] Downloaded to: downloads/RAG-Based QA Chatbot: Tips & Tricks.pdf
+2025-03-10 15:15:28,546 [INFO] Processing file: JohnDoeMembership.docx (ID: 19Ues4Y8yt3cYNWeqc2wptNpHthjFo1Eo, MIME Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+2025-03-10 15:15:30,695 [INFO] Download JohnDoeMembership.docx: 100%.
+2025-03-10 15:15:30,696 [INFO] Downloaded to: downloads/JohnDoeMembership.docx
+2025-03-10 15:15:32,267 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:32,352 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:15:34,998 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:38,362 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:39,379 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:39,821 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:40,180 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:41,105 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:41,497 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:46,518 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:47,036 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:47,186 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:15:51,463 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:51,657 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:15:53,247 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:11,879 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:16,964 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:16:19,440 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:21,660 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:22,547 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:22,650 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:16:28,986 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:30,638 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:32,876 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:33,550 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:34,449 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:36,735 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:39,696 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:40,152 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:16:48,363 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:56,400 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:56,718 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:57,658 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:16:57,708 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:00,100 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:02,550 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:02,606 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:17:04,560 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:06,945 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:11,149 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:12,146 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:15,740 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:18,318 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:18,412 [INFO] HTTP Request: GET https://api.unstructuredapp.io/general/docs "HTTP/1.1 200 OK"
+2025-03-10 15:17:21,908 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:24,762 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:25,672 [INFO] HTTP Request: POST https://api.unstructuredapp.io/general/v0/general "HTTP/1.1 200 OK"
+2025-03-10 15:17:25,674 [INFO] Loaded 462 documents from UnstructuredLoader.
+2025-03-10 15:17:25,676 [INFO] Filtered to 462 documents after metadata filtering.
+2025-03-10 15:17:25,681 [INFO] Loaded 462 docs from UnstructuredLoader.
+2025-03-10 15:17:25,681 [INFO] Number of docs: 462, batch size: 99
+2025-03-10 15:17:25,681 [INFO] Storing batch 0 to 99
+2025-03-10 15:17:29,855 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:17:35,842 [ERROR] Failed to insert batch starting at entity 0: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:17:35 GMT', 'Content-Type': 'application/json', 'Content-Length': '104', 'Connection': 'keep-alive', 'x-pinecone-request-latency-ms': '268', 'x-pinecone-request-id': '2985676715913978522', 'x-envoy-upstream-service-time': '4', 'server': 'envoy'})
+HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
+
+2025-03-10 15:17:35,857 [INFO] Storing batch 99 to 198
+2025-03-10 15:17:35,863 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:35,876 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:35,889 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:35,902 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:35,908 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:37,466 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:17:38,571 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:17:38,882 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:17:55,547 [ERROR] Failed to insert batch starting at entity 99: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:17:55 GMT', 'Content-Type': 'application/json', 'Content-Length': '104', 'Connection': 'keep-alive', 'x-pinecone-request-latency-ms': '649', 'x-pinecone-request-id': '6535002609837414638', 'x-envoy-upstream-service-time': '3', 'server': 'envoy'})
+HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
+
+2025-03-10 15:17:55,561 [INFO] Storing batch 198 to 297
+2025-03-10 15:17:55,574 [WARNING] Truncating 'orig_elements' for document ID None as it exceeds 65535 characters.
+2025-03-10 15:17:56,401 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:18:13,979 [ERROR] Failed to insert batch starting at entity 198: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:18:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '104', 'Connection': 'keep-alive', 'x-pinecone-request-latency-ms': '240', 'x-pinecone-request-id': '4755465295705320262', 'x-envoy-upstream-service-time': '3', 'server': 'envoy'})
+HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
+
+2025-03-10 15:18:13,992 [INFO] Storing batch 297 to 396
+2025-03-10 15:18:15,442 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:18:32,807 [ERROR] Failed to insert batch starting at entity 297: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:18:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '104', 'Connection': 'keep-alive', 'x-pinecone-request-latency-ms': '195', 'x-pinecone-request-id': '8162184472431625254', 'x-envoy-upstream-service-time': '4', 'server': 'envoy'})
+HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
+
+2025-03-10 15:18:32,819 [INFO] Storing batch 396 to 462
+2025-03-10 15:18:33,937 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-10 15:18:52,441 [ERROR] Failed to insert batch starting at entity 396: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:18:52 GMT', 'Content-Type': 'application/json', 'Content-Length': '104', 'Connection': 'keep-alive', 'x-pinecone-request-latency-ms': '212', 'x-pinecone-request-id': '4541454063465783512', 'x-envoy-upstream-service-time': '4', 'server': 'envoy'})
+HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
+
+2025-03-10 15:18:52,454 [INFO] Embeddings stored successfully in Pinecone.
