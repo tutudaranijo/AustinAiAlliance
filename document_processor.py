@@ -1,5 +1,3 @@
-# document_processor.py
-
 import os
 import io
 from uuid import uuid4
@@ -22,14 +20,15 @@ from langsmith import Client
 from langfuse.callback import CallbackHandler
 
 # Pinecone Imports (new API)
-from pinecone import Pinecone as PineconeClient, ServerlessSpec
-import pinecone
+# We'll use the new Pinecone client API.
+from pinecone import Pinecone, ServerlessSpec
+import pinecone  # you can still import this if you need to inspect attributes
 
-# Updated embedding and vectorstore imports:
-from langchain_community.embeddings import OpenAIEmbeddings
-# Instead of importing Pinecone from langchain_community.vectorstores, 
-# we now use the new package:
-from langchain_pinecone import Pinecone
+# Updated embedding import – use langchain_openai instead of langchain_community.
+from langchain_openai import OpenAIEmbeddings
+
+# Import the LangChain Pinecone vectorstore under an alias to avoid naming conflicts.
+from langchain_pinecone import Pinecone as LC_Pinecone
 
 from langchain_community.vectorstores.utils import filter_complex_metadata
 from langchain.chains import RetrievalQA
@@ -40,6 +39,8 @@ from langchain.llms.base import LLM
 from pydantic import Field
 
 import logging
+
+from langchain_core.pydantic_v1 import BaseModel
 
 # Load environment variables
 load_dotenv()
@@ -144,12 +145,11 @@ except Exception as e:
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_ENV = os.getenv("PINECONE_ENVIRONMENT", "us-east-1")
 INDEX_NAME = os.getenv("PINECONE_INDEX_NAME", "aaiachatbot")
-PINECONE_CLOUD = os.getenv("PINECONE_CLOUD", "aws")
 
 try:
-    # Create a Pinecone client instance using the environment parameter.
-    pc = PineconeClient(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
-    logging.info("Initialized Pinecone client using environment parameter.")
+    # Create an instance of the new Pinecone client.
+    pc = Pinecone(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
+    logging.info("Initialized Pinecone client.")
 except Exception as e:
     logging.error(f"Failed to initialize Pinecone: {e}")
     exit(1)
@@ -166,20 +166,17 @@ try:
         name=INDEX_NAME,
         dimension=3072,
         metric='cosine',
-        spec=ServerlessSpec(
-            cloud=PINECONE_CLOUD,
-            region=PINECONE_ENV
-        )
+        spec=ServerlessSpec(cloud='aws', region=PINECONE_ENV)
     )
     logging.info(f"Created Pinecone index: {INDEX_NAME} with dimension 3072.")
 except Exception as e:
     logging.error(f"Failed to create or list Pinecone indexes: {e}")
     exit(1)
 
-# Retrieve the index instance via the Pinecone client instance.
+# Retrieve the index instance via the Pinecone client.
 try:
     index_instance = pc.Index(INDEX_NAME)
-    vector_store = Pinecone(
+    vector_store = LC_Pinecone(
         index=index_instance,
         embedding=embedding_model,  # Pass the embedding model directly.
         text_key="text"
