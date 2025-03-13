@@ -2482,3 +2482,52 @@ HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 10 Mar 2025 20:18:52 GMT', 
 HTTP response body: {"code":3,"message":"Vector dimension 3072 does not match the dimension of the index 1024","details":[]}
 
 2025-03-10 15:18:52,454 [INFO] Embeddings stored successfully in Pinecone.
+2025-03-12 19:31:52,187 [INFO] Starting document processor script...
+2025-03-12 19:31:52,187 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:31:52,188 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:31:52,194 [INFO] Installing plugin inference into Pinecone
+2025-03-12 19:31:52,195 [INFO] Successfully initialized Pinecone client with environment 'None'.
+2025-03-12 19:31:52,264 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-12 19:31:52,265 [INFO] Successfully authenticated with Google Drive.
+2025-03-12 19:31:52,595 [INFO] Index 'aaiachatbot' already exists.
+2025-03-12 19:31:53,181 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:31:53,182 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:31:54,585 [ERROR] Failed to list files: <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files?q=%27None%27+in+parents+and+trashed%3Dfalse&alt=json returned "File not found: .". Details: "[{'message': 'File not found: .', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-03-12 19:31:54,586 [WARNING] No files were downloaded or processed.
+2025-03-12 19:31:54,586 [INFO] Document processing completed successfully.
+2025-03-12 19:32:24,741 [INFO] Starting document processor script...
+2025-03-12 19:32:24,742 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:32:24,742 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:32:24,748 [INFO] Installing plugin inference into Pinecone
+2025-03-12 19:32:24,748 [INFO] Successfully initialized Pinecone client with environment 'None'.
+2025-03-12 19:32:24,813 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-12 19:32:24,814 [INFO] Successfully authenticated with Google Drive.
+2025-03-12 19:32:25,472 [INFO] Index 'aaiachatbot' already exists.
+2025-03-12 19:32:25,947 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:32:25,948 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:32:26,334 [ERROR] Failed to list files: <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files?q=%27None%27+in+parents+and+trashed%3Dfalse&alt=json returned "File not found: .". Details: "[{'message': 'File not found: .', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-03-12 19:32:26,335 [WARNING] No files were downloaded or processed.
+2025-03-12 19:32:26,335 [INFO] Document processing completed successfully.
+2025-03-12 19:33:40,718 [INFO] Starting document processor script...
+2025-03-12 19:33:40,718 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:33:40,718 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:33:40,724 [INFO] Installing plugin inference into Pinecone
+2025-03-12 19:33:40,724 [INFO] Successfully initialized Pinecone client with environment 'None'.
+2025-03-12 19:33:40,787 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-03-12 19:33:40,788 [INFO] Successfully authenticated with Google Drive.
+2025-03-12 19:33:40,984 [INFO] Index 'aaiachatbot' already exists.
+2025-03-12 19:33:41,101 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 19:33:41,102 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 19:33:41,472 [ERROR] Failed to list files: <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files?q=%27None%27+in+parents+and+trashed%3Dfalse&alt=json returned "File not found: .". Details: "[{'message': 'File not found: .', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-03-12 19:33:41,472 [WARNING] No files were downloaded or processed.
+2025-03-12 19:33:41,473 [INFO] Document processing completed successfully.
+2025-03-12 20:04:41,688 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 20:04:41,688 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 20:04:41,694 [INFO] Installing plugin inference into Pinecone
+2025-03-12 20:04:42,106 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 20:04:42,107 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 20:06:55,011 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 20:06:55,011 [INFO] Looking for plugins in pinecone_plugins.inference
+2025-03-12 20:06:55,018 [INFO] Installing plugin inference into Pinecone
+2025-03-12 20:06:55,215 [INFO] Discovering subpackages in _NamespacePath(['/Users/tutudaranijo/anaconda3/envs/chatbot311/lib/python3.11/site-packages/pinecone_plugins'])
+2025-03-12 20:06:55,216 [INFO] Looking for plugins in pinecone_plugins.inference

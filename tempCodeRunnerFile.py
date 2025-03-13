@@ -1,1 +1,1 @@
-from pinecone import PineconeClient
+ 

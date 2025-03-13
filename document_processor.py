@@ -355,56 +355,35 @@ def create_embeddings_and_store(docs: List[Any], uuids: List[str]):
 ###############################
 # 8. Main Script Execution
 ###############################
-if __name__ == '__main__':
-    folder_id = os.getenv("google_folder_id", "")
-    if not folder_id:
-        logging.error("Error: 'google_folder_id' environment variable is not set.")
-        exit(1)
-    local_paths = []
-    files = list_all_files(folder_id)
-    logging.info(f"Total files found: {len(files)}")
-    for file in files:
-        file_id = file['id']
-        file_name = file['name']
-        mime_type = file['mimeType']
-        logging.info(f"Processing file: {file_name} (ID: {file_id}, MIME Type: {mime_type})")
-        try:
-            local_path = download_file(file_id, file_name, mime_type)
-            if local_path:
-                local_paths.append(local_path)
-        except Exception as e:
-            logging.error(f"Failed to download {file_name}: {e}")
-    if not local_paths:
-        logging.warning("No files were downloaded. Exiting.")
-        exit(0)
+
+folder_id = os.getenv("google_folder_id", "")
+if not folder_id:
+    logging.error("Error: 'google_folder_id' environment variable is not set.")
+    exit(1)
+local_paths = []
+files = list_all_files(folder_id)
+logging.info(f"Total files found: {len(files)}")
+for file in files:
+    file_id = file['id']
+    file_name = file['name']
+    mime_type = file['mimeType']
+    logging.info(f"Processing file: {file_name} (ID: {file_id}, MIME Type: {mime_type})")
     try:
-        docs, uuids = load_docs_unstructured(local_paths)
-        logging.info(f"Loaded {len(docs)} docs from UnstructuredLoader.")
+        local_path = download_file(file_id, file_name, mime_type)
+        if local_path:
+            local_paths.append(local_path)
     except Exception as e:
-        logging.error(f"Failed to load and chunk documents: {e}")
-        exit(1)
-    if not docs:
-        logging.warning("No documents were loaded. Exiting.")
-        exit(0)
-    create_embeddings_and_store(docs, uuids)
-    # Optional: Query your chain with Langfuse callback integration.
-    # Replace <user_input> with your query.
-    # Uncomment the following lines to test chain invocation with callbacks:
-    #
-    # question = "What is this document about?"
-    # try:
-    #     response = qa_chain.invoke({"input": question}, config={"callbacks": [langfuse_handler]})
-    #     logging.info(f"Response: {response}")
-    # except Exception as e:
-    #     logging.error(f"Failed to get response from QA chain: {e}")
-    #
-    # Optional: Log run with LangSmith Client.
-    # try:
-    #     client.create_run(
-    #         run_type="qa",
-    #         name="my_document_query_run",
-    #         inputs={"question": question},
-    #         outputs={"answer": response}
-    #     )
-    # except Exception as e:
-    #     logging.error(f"Failed to log run with LangSmith Client: {e}")
+        logging.error(f"Failed to download {file_name}: {e}")
+if not local_paths:
+    logging.warning("No files were downloaded. Exiting.")
+    exit(0)
+try:
+    docs, uuids = load_docs_unstructured(local_paths)
+    logging.info(f"Loaded {len(docs)} docs from UnstructuredLoader.")
+except Exception as e:
+    logging.error(f"Failed to load and chunk documents: {e}")
+    exit(1)
+if not docs:
+    logging.warning("No documents were loaded. Exiting.")
+    exit(0)
+create_embeddings_and_store(docs, uuids)
